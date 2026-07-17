@@ -36,6 +36,7 @@ def inject_base_style():
             background-color: {COLOR_BG};
         }}
 
+        /* ---- Sidebar ---- */
         section[data-testid="stSidebar"] {{
             background-color: {COLOR_NAVY};
         }}
@@ -44,6 +45,25 @@ def inject_base_style():
         }}
         section[data-testid="stSidebar"] .stMarkdown small {{
             color: #9FB2C6 !important;
+        }}
+
+        /* Streamlit's auto-generated page nav links need extra-specific
+           targeting - they don't always inherit from the wildcard above. */
+        section[data-testid="stSidebar"] [data-testid="stSidebarNav"] a,
+        section[data-testid="stSidebar"] [data-testid="stSidebarNav"] a span,
+        section[data-testid="stSidebar"] [data-testid="stSidebarNav"] a p,
+        section[data-testid="stSidebar"] [data-testid="stSidebarNavLink"],
+        section[data-testid="stSidebar"] [data-testid="stSidebarNavLink"] span,
+        section[data-testid="stSidebar"] [data-testid="stSidebarNavLink"] p,
+        section[data-testid="stSidebar"] li a,
+        section[data-testid="stSidebar"] li span {{
+            color: #E7EDF3 !important;
+        }}
+        section[data-testid="stSidebar"] [data-testid="stSidebarNavLink"][aria-current="page"],
+        section[data-testid="stSidebar"] li a[aria-current="page"] {{
+            background-color: rgba(255,255,255,0.10) !important;
+            color: #FFFFFF !important;
+            font-weight: 600 !important;
         }}
 
         /* Header eyebrow / brand block */
@@ -134,8 +154,8 @@ def inject_base_style():
 
         .stDataFrame {{ border-radius: 8px; overflow:hidden; }}
 
-        /* Force readable text everywhere in the main content area, regardless
-           of the viewer's OS/browser dark-mode setting. */
+        /* ---- Main content area: force readable text regardless of the
+           viewer's OS/browser dark-mode setting. ---- */
         [data-testid="stAppViewContainer"] h1,
         [data-testid="stAppViewContainer"] h2,
         [data-testid="stAppViewContainer"] h3,
