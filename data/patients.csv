@@ -1,0 +1,1001 @@
+Patient_ID,Site_ID,Country,Age,Sex,Enrollment_Date,Status,Travel_Distance_KM,Previous_Missed_Visits
+P00001,S017,Spain,38,Female,2025-05-05,Screen Failed,5.9,0
+P00002,S037,South Korea,58,Male,2023-12-31,Active,72.2,1
+P00003,S042,Spain,47,Female,2023-09-13,Active,7.0,0
+P00004,S014,Spain,61,Male,2024-06-04,Completed,26.0,0
+P00005,S014,Spain,39,Male,2025-05-27,Active,12.1,0
+P00006,S020,United States,58,Male,2025-01-30,Active,53.8,0
+P00007,S023,United Kingdom,46,Male,2024-01-16,Completed,32.7,0
+P00008,S004,Spain,55,Male,2024-11-28,Withdrawn,104.1,3
+P00009,S030,Italy,39,Female,2025-01-09,Active,23.9,0
+P00010,S039,South Korea,51,Female,2025-02-08,Active,50.5,1
+P00011,S023,United Kingdom,35,Female,2024-10-30,Withdrawn,162.2,5
+P00012,S010,United States,56,Male,2024-07-04,Active,1.6,0
+P00013,S018,South Korea,64,Female,2023-10-30,Completed,55.4,0
+P00014,S024,France,46,Female,2023-12-01,Active,5.3,1
+P00015,S042,Spain,44,Female,2023-10-21,Active,0.2,2
+P00016,S033,Germany,62,Male,2024-12-30,Active,2.7,0
+P00017,S006,Canada,58,Female,2023-09-23,Completed,54.1,0
+P00018,S015,Canada,67,Female,2024-04-14,Completed,53.8,1
+P00019,S038,Mexico,39,Female,2023-09-30,Screen Failed,43.7,1
+P00020,S033,Germany,52,Male,2024-06-19,Completed,113.8,0
+P00021,S019,India,55,Female,2025-05-18,Completed,13.2,0
+P00022,S039,South Korea,49,Male,2024-08-09,Active,10.0,0
+P00023,S033,Germany,42,Female,2023-08-09,Active,92.9,1
+P00024,S037,South Korea,46,Male,2024-08-18,Active,57.0,0
+P00025,S038,Mexico,73,Female,2025-04-04,Withdrawn,169.2,1
+P00026,S012,Japan,56,Male,2023-11-04,Active,19.5,2
+P00027,S022,Australia,34,Male,2023-10-11,Completed,44.5,0
+P00028,S041,United States,48,Male,2025-04-15,Active,13.7,0
+P00029,S031,United States,57,Female,2024-05-16,Active,114.9,0
+P00030,S022,Australia,52,Male,2025-06-05,Active,52.5,0
+P00031,S002,United States,54,Male,2024-08-27,Screen Failed,91.8,0
+P00032,S039,South Korea,88,Male,2024-09-13,Active,49.6,0
+P00033,S022,Australia,69,Male,2023-09-22,Active,99.5,1
+P00034,S028,United Kingdom,64,Female,2023-09-30,Screen Failed,125.1,0
+P00035,S005,Australia,47,Male,2024-11-23,Completed,47.2,0
+P00036,S027,Poland,66,Female,2024-09-30,Active,129.6,0
+P00037,S022,Australia,63,Female,2024-03-31,Active,6.7,1
+P00038,S040,Australia,36,Male,2024-03-05,Active,95.2,0
+P00039,S006,Canada,65,Male,2024-11-25,Completed,59.5,1
+P00040,S012,Japan,36,Male,2024-04-15,Completed,3.4,2
+P00041,S015,Canada,72,Male,2024-03-13,Active,79.6,2
+P00042,S005,Australia,41,Female,2023-11-28,Active,6.2,1
+P00043,S001,Canada,58,Female,2024-11-14,Completed,0.2,0
+P00044,S025,India,43,Male,2024-07-19,Completed,131.2,1
+P00045,S031,United States,43,Female,2025-05-26,Active,88.0,2
+P00046,S025,India,38,Female,2025-06-03,Active,3.4,0
+P00047,S013,United States,66,Female,2023-06-14,Active,74.9,1
+P00048,S026,Germany,50,Female,2024-11-03,Withdrawn,23.7,2
+P00049,S002,United States,39,Male,2024-08-22,Active,98.7,2
+P00050,S002,United States,60,Male,2023-09-10,Active,92.2,0
+P00051,S041,United States,42,Female,2024-09-13,Active,66.7,0
+P00052,S008,Germany,32,Female,2024-08-08,Active,28.5,2
+P00053,S006,Canada,54,Female,2023-11-13,Withdrawn,163.5,4
+P00054,S035,Japan,37,Male,2024-04-11,Active,148.1,2
+P00055,S022,Australia,61,Male,2023-10-12,Screen Failed,42.4,2
+P00056,S017,Spain,69,Male,2024-01-12,Active,43.5,1
+P00057,S020,United States,28,Male,2024-01-08,Withdrawn,31.3,0
+P00058,S002,United States,59,Male,2024-05-21,Active,100.5,0
+P00059,S007,Netherlands,75,Female,2024-08-16,Screen Failed,48.5,1
+P00060,S003,Italy,55,Female,2024-02-27,Active,116.5,0
+P00061,S029,United Kingdom,25,Female,2025-07-03,Active,55.5,0
+P00062,S019,India,56,Male,2025-02-25,Screen Failed,92.9,0
+P00063,S041,United States,61,Male,2024-09-08,Completed,18.4,0
+P00064,S008,Germany,66,Male,2024-11-28,Completed,100.1,1
+P00065,S029,United Kingdom,59,Male,2024-08-12,Active,123.1,0
+P00066,S012,Japan,77,Male,2025-05-31,Withdrawn,15.4,1
+P00067,S006,Canada,60,Male,2023-10-23,Completed,22.5,0
+P00068,S022,Australia,64,Female,2025-04-22,Active,112.5,0
+P00069,S019,India,76,Male,2024-01-26,Completed,35.3,0
+P00070,S017,Spain,33,Male,2025-04-26,Active,124.4,0
+P00071,S037,South Korea,40,Female,2025-01-23,Screen Failed,2.6,1
+P00072,S027,Poland,60,Female,2024-01-03,Active,138.6,1
+P00073,S029,United Kingdom,83,Male,2024-01-19,Completed,99.3,0
+P00074,S041,United States,26,Female,2024-02-11,Active,82.5,0
+P00075,S004,Spain,57,Male,2024-03-05,Active,92.6,0
+P00076,S036,Mexico,45,Male,2024-11-22,Active,0.8,1
+P00077,S006,Canada,67,Female,2025-04-03,Active,73.5,2
+P00078,S008,Germany,74,Male,2024-08-07,Withdrawn,48.6,5
+P00079,S040,Australia,50,Female,2024-02-28,Active,138.6,1
+P00080,S038,Mexico,69,Female,2025-05-13,Completed,114.6,1
+P00081,S038,Mexico,58,Male,2023-10-01,Completed,195.3,1
+P00082,S020,United States,52,Female,2024-10-05,Screen Failed,12.1,0
+P00083,S030,Italy,64,Male,2025-03-19,Active,54.6,0
+P00084,S022,Australia,63,Male,2023-09-25,Active,92.1,1
+P00085,S038,Mexico,42,Male,2024-04-12,Completed,5.4,1
+P00086,S006,Canada,49,Female,2023-11-12,Active,3.1,1
+P00087,S036,Mexico,47,Male,2025-06-30,Active,43.1,1
+P00088,S017,Spain,57,Female,2023-11-12,Active,58.6,3
+P00089,S005,Australia,58,Male,2024-06-28,Completed,19.3,1
+P00090,S022,Australia,74,Male,2024-12-24,Completed,90.4,0
+P00091,S003,Italy,71,Female,2024-09-01,Completed,30.6,1
+P00092,S014,Spain,64,Male,2023-12-01,Screen Failed,71.0,0
+P00093,S041,United States,57,Male,2025-06-09,Withdrawn,92.7,5
+P00094,S028,United Kingdom,54,Male,2024-12-07,Active,30.7,1
+P00095,S014,Spain,84,Female,2023-12-26,Active,11.4,0
+P00096,S020,United States,42,Female,2023-06-29,Active,15.3,1
+P00097,S042,Spain,27,Male,2024-05-17,Active,148.8,1
+P00098,S039,South Korea,59,Female,2024-08-25,Screen Failed,60.5,2
+P00099,S019,India,70,Male,2024-05-25,Withdrawn,152.7,1
+P00100,S017,Spain,47,Female,2023-08-17,Active,122.6,2
+P00101,S019,India,52,Female,2024-04-08,Withdrawn,70.0,7
+P00102,S020,United States,53,Female,2025-05-25,Active,4.8,2
+P00103,S030,Italy,32,Female,2025-06-26,Withdrawn,44.2,5
+P00104,S025,India,71,Male,2023-10-15,Active,113.2,0
+P00105,S007,Netherlands,74,Female,2024-04-02,Active,8.4,0
+P00106,S001,Canada,66,Male,2024-12-09,Active,15.1,1
+P00107,S019,India,50,Female,2024-11-14,Active,25.3,1
+P00108,S028,United Kingdom,64,Female,2024-04-11,Active,159.4,1
+P00109,S040,Australia,30,Female,2024-09-22,Completed,111.5,1
+P00110,S015,Canada,53,Female,2025-04-23,Screen Failed,35.1,0
+P00111,S004,Spain,38,Female,2025-06-26,Active,14.8,1
+P00112,S030,Italy,60,Male,2025-01-23,Active,46.6,0
+P00113,S002,United States,46,Female,2025-05-21,Completed,6.8,0
+P00114,S006,Canada,42,Female,2024-01-25,Completed,111.6,0
+P00115,S017,Spain,81,Male,2023-11-13,Active,91.4,1
+P00116,S005,Australia,54,Male,2025-02-28,Active,112.4,1
+P00117,S013,United States,62,Male,2023-10-21,Active,97.1,0
+P00118,S017,Spain,64,Male,2024-05-13,Active,23.2,1
+P00119,S020,United States,65,Female,2023-10-19,Completed,79.0,0
+P00120,S024,France,40,Female,2025-05-19,Active,44.0,0
+P00121,S024,France,42,Female,2025-02-01,Active,16.6,0
+P00122,S015,Canada,41,Male,2024-06-18,Active,48.3,0
+P00123,S006,Canada,57,Male,2024-11-25,Completed,39.8,1
+P00124,S005,Australia,66,Female,2025-01-15,Active,27.0,1
+P00125,S019,India,48,Female,2024-01-14,Active,55.8,1
+P00126,S016,Japan,44,Female,2023-11-27,Active,190.7,1
+P00127,S006,Canada,47,Male,2024-12-17,Active,6.1,0
+P00128,S014,Spain,45,Male,2024-05-30,Active,96.7,1
+P00129,S023,United Kingdom,57,Female,2023-07-12,Active,4.2,0
+P00130,S042,Spain,53,Female,2024-07-24,Active,70.2,1
+P00131,S008,Germany,61,Male,2024-01-09,Active,28.5,1
+P00132,S033,Germany,56,Female,2025-05-15,Completed,7.2,0
+P00133,S019,India,31,Female,2024-03-28,Active,94.3,1
+P00134,S026,Germany,54,Male,2025-03-17,Completed,45.9,0
+P00135,S024,France,51,Female,2025-04-09,Active,5.1,0
+P00136,S042,Spain,48,Male,2024-02-09,Withdrawn,13.6,4
+P00137,S020,United States,29,Female,2024-10-25,Active,182.8,2
+P00138,S032,Brazil,39,Female,2024-05-14,Active,97.5,0
+P00139,S004,Spain,60,Male,2024-01-16,Active,104.5,0
+P00140,S034,Poland,76,Female,2023-10-07,Screen Failed,47.9,0
+P00141,S008,Germany,61,Female,2025-02-09,Withdrawn,115.9,4
+P00142,S017,Spain,68,Female,2024-03-29,Withdrawn,61.7,3
+P00143,S038,Mexico,65,Female,2024-08-11,Active,82.9,1
+P00144,S041,United States,23,Female,2024-12-16,Completed,124.6,0
+P00145,S007,Netherlands,61,Female,2025-03-23,Completed,26.7,2
+P00146,S015,Canada,71,Female,2024-04-25,Active,10.0,1
+P00147,S026,Germany,60,Male,2023-10-02,Active,14.7,1
+P00148,S036,Mexico,58,Male,2025-04-14,Active,4.8,0
+P00149,S034,Poland,48,Female,2024-02-17,Completed,44.8,1
+P00150,S031,United States,46,Male,2024-09-19,Active,27.4,0
+P00151,S016,Japan,29,Female,2025-07-04,Active,21.7,1
+P00152,S027,Poland,74,Female,2023-10-17,Active,114.7,1
+P00153,S037,South Korea,55,Male,2024-10-17,Withdrawn,131.8,3
+P00154,S028,United Kingdom,64,Female,2024-04-05,Active,19.3,3
+P00155,S006,Canada,54,Female,2025-02-15,Completed,71.3,0
+P00156,S003,Italy,69,Male,2024-06-03,Active,14.3,1
+P00157,S015,Canada,65,Female,2025-07-05,Active,128.3,0
+P00158,S016,Japan,21,Female,2023-10-27,Completed,86.8,0
+P00159,S011,Spain,38,Male,2025-05-01,Withdrawn,6.8,3
+P00160,S026,Germany,51,Male,2024-01-19,Withdrawn,125.0,0
+P00161,S030,Italy,50,Male,2023-09-21,Active,43.1,1
+P00162,S027,Poland,38,Male,2024-07-07,Withdrawn,2.4,3
+P00163,S009,Poland,53,Male,2024-08-26,Active,29.1,0
+P00164,S033,Germany,46,Male,2025-02-21,Active,21.1,0
+P00165,S020,United States,71,Female,2024-11-15,Active,45.9,0
+P00166,S037,South Korea,24,Female,2025-06-05,Withdrawn,142.2,2
+P00167,S019,India,67,Male,2025-01-05,Completed,1.0,0
+P00168,S012,Japan,71,Female,2024-01-29,Active,39.0,0
+P00169,S006,Canada,46,Male,2024-06-10,Completed,37.0,0
+P00170,S006,Canada,60,Male,2025-06-10,Withdrawn,99.8,5
+P00171,S014,Spain,30,Male,2025-05-24,Active,118.1,1
+P00172,S013,United States,78,Male,2024-09-28,Completed,16.7,1
+P00173,S028,United Kingdom,71,Female,2024-11-17,Completed,20.1,0
+P00174,S041,United States,23,Male,2023-12-16,Completed,50.5,0
+P00175,S037,South Korea,67,Male,2025-05-09,Screen Failed,56.3,0
+P00176,S002,United States,53,Male,2024-07-11,Screen Failed,101.0,0
+P00177,S029,United Kingdom,45,Female,2024-11-05,Active,63.0,1
+P00178,S008,Germany,48,Male,2024-04-05,Completed,11.1,0
+P00179,S039,South Korea,56,Male,2024-12-08,Completed,11.2,1
+P00180,S036,Mexico,40,Male,2024-08-14,Withdrawn,98.1,0
+P00181,S007,Netherlands,76,Male,2023-12-03,Active,78.3,0
+P00182,S039,South Korea,75,Female,2024-11-14,Active,19.0,0
+P00183,S023,United Kingdom,49,Male,2024-03-28,Withdrawn,72.3,2
+P00184,S016,Japan,56,Male,2025-01-18,Active,44.4,0
+P00185,S025,India,83,Female,2024-01-12,Completed,136.7,1
+P00186,S002,United States,49,Male,2024-08-27,Completed,10.6,1
+P00187,S022,Australia,30,Female,2024-06-01,Active,141.6,0
+P00188,S004,Spain,67,Female,2025-03-12,Active,45.6,0
+P00189,S030,Italy,32,Male,2024-03-19,Active,99.8,2
+P00190,S027,Poland,48,Male,2024-02-08,Completed,105.7,0
+P00191,S039,South Korea,35,Female,2025-02-10,Active,67.3,2
+P00192,S029,United Kingdom,50,Female,2024-09-21,Active,41.2,1
+P00193,S022,Australia,60,Female,2024-04-04,Withdrawn,7.0,2
+P00194,S031,United States,56,Female,2024-06-12,Withdrawn,12.4,7
+P00195,S002,United States,34,Male,2024-11-15,Active,4.5,0
+P00196,S031,United States,61,Male,2024-07-31,Active,54.5,1
+P00197,S015,Canada,74,Female,2025-02-28,Completed,13.4,2
+P00198,S012,Japan,56,Female,2025-06-19,Completed,40.9,1
+P00199,S037,South Korea,63,Female,2025-01-19,Withdrawn,56.1,4
+P00200,S028,United Kingdom,54,Female,2024-11-14,Active,72.4,2
+P00201,S019,India,41,Female,2024-02-09,Completed,4.1,0
+P00202,S014,Spain,65,Female,2024-12-03,Completed,12.3,0
+P00203,S002,United States,26,Female,2024-10-03,Screen Failed,129.8,0
+P00204,S041,United States,37,Female,2023-11-25,Active,94.0,0
+P00205,S019,India,86,Female,2025-06-10,Active,6.4,1
+P00206,S041,United States,44,Male,2024-02-27,Completed,36.7,1
+P00207,S012,Japan,46,Male,2024-04-13,Completed,7.2,1
+P00208,S003,Italy,45,Male,2025-02-26,Active,161.7,3
+P00209,S018,South Korea,65,Female,2023-09-27,Completed,95.8,1
+P00210,S011,Spain,68,Female,2023-07-25,Screen Failed,26.9,1
+P00211,S005,Australia,48,Female,2025-07-04,Active,4.9,4
+P00212,S025,India,62,Female,2024-10-30,Active,93.2,0
+P00213,S017,Spain,66,Male,2025-01-28,Active,24.0,0
+P00214,S011,Spain,40,Female,2024-05-30,Completed,40.2,0
+P00215,S037,South Korea,18,Female,2025-04-30,Active,31.4,1
+P00216,S030,Italy,41,Female,2024-09-24,Active,69.2,0
+P00217,S037,South Korea,62,Female,2025-01-07,Active,66.5,2
+P00218,S031,United States,69,Female,2024-05-02,Screen Failed,79.9,1
+P00219,S008,Germany,48,Male,2024-05-26,Withdrawn,87.6,3
+P00220,S001,Canada,42,Female,2023-12-07,Active,11.8,2
+P00221,S013,United States,63,Male,2024-11-17,Active,143.0,0
+P00222,S033,Germany,84,Female,2025-04-26,Active,27.3,1
+P00223,S029,United Kingdom,56,Male,2025-04-01,Completed,42.5,0
+P00224,S031,United States,59,Male,2025-04-25,Completed,42.4,1
+P00225,S028,United Kingdom,46,Female,2025-02-08,Withdrawn,49.7,0
+P00226,S002,United States,59,Female,2023-12-08,Active,103.7,0
+P00227,S033,Germany,46,Male,2025-02-19,Completed,11.2,1
+P00228,S020,United States,80,Male,2024-11-22,Completed,6.3,2
+P00229,S005,Australia,69,Male,2024-07-14,Active,11.2,1
+P00230,S019,India,72,Male,2024-08-26,Active,140.6,0
+P00231,S029,United Kingdom,32,Female,2025-05-14,Completed,184.7,0
+P00232,S038,Mexico,44,Female,2023-11-18,Active,9.1,0
+P00233,S002,United States,36,Female,2023-10-05,Completed,109.9,0
+P00234,S042,Spain,74,Male,2024-07-20,Completed,7.2,2
+P00235,S036,Mexico,62,Male,2024-07-27,Active,94.9,0
+P00236,S039,South Korea,72,Male,2024-08-29,Completed,33.6,1
+P00237,S006,Canada,59,Male,2024-03-22,Active,19.7,0
+P00238,S022,Australia,43,Female,2025-01-28,Completed,92.3,1
+P00239,S034,Poland,47,Female,2024-06-23,Active,40.4,0
+P00240,S018,South Korea,27,Female,2025-02-23,Completed,22.9,1
+P00241,S031,United States,59,Female,2025-04-29,Active,91.4,0
+P00242,S006,Canada,60,Male,2024-06-07,Withdrawn,9.7,2
+P00243,S028,United Kingdom,61,Female,2025-05-10,Active,0.3,0
+P00244,S023,United Kingdom,78,Male,2024-05-18,Screen Failed,3.2,0
+P00245,S002,United States,51,Male,2023-10-25,Completed,5.0,1
+P00246,S034,Poland,43,Female,2025-04-10,Active,47.8,0
+P00247,S006,Canada,73,Female,2024-06-23,Active,91.1,1
+P00248,S024,France,66,Female,2025-01-08,Completed,83.2,2
+P00249,S015,Canada,55,Male,2025-03-31,Active,99.5,0
+P00250,S029,United Kingdom,67,Female,2024-01-15,Active,26.2,1
+P00251,S003,Italy,44,Male,2025-02-05,Active,111.9,0
+P00252,S042,Spain,47,Female,2024-08-03,Completed,54.4,0
+P00253,S034,Poland,53,Male,2024-02-02,Active,28.4,1
+P00254,S042,Spain,83,Female,2024-07-04,Active,168.8,1
+P00255,S030,Italy,50,Male,2024-12-29,Completed,160.9,1
+P00256,S019,India,30,Female,2024-01-04,Active,14.9,0
+P00257,S042,Spain,32,Female,2024-04-25,Completed,85.2,0
+P00258,S037,South Korea,82,Female,2025-05-05,Completed,80.8,0
+P00259,S013,United States,65,Female,2023-08-08,Active,8.3,1
+P00260,S032,Brazil,56,Female,2023-11-21,Withdrawn,44.9,3
+P00261,S042,Spain,58,Male,2024-05-26,Active,113.7,0
+P00262,S037,South Korea,49,Male,2023-12-23,Completed,20.6,0
+P00263,S016,Japan,37,Male,2024-01-05,Completed,17.4,1
+P00264,S029,United Kingdom,58,Male,2024-04-29,Screen Failed,13.8,1
+P00265,S042,Spain,32,Female,2024-04-21,Screen Failed,2.7,0
+P00266,S023,United Kingdom,50,Female,2024-06-02,Screen Failed,14.4,1
+P00267,S012,Japan,75,Female,2023-10-31,Active,46.4,0
+P00268,S002,United States,65,Female,2025-03-12,Active,136.7,1
+P00269,S036,Mexico,59,Male,2024-04-11,Active,160.9,0
+P00270,S006,Canada,72,Male,2025-02-03,Withdrawn,11.0,0
+P00271,S023,United Kingdom,52,Female,2025-06-04,Active,185.1,0
+P00272,S022,Australia,39,Female,2023-09-08,Withdrawn,1.5,3
+P00273,S041,United States,66,Female,2025-04-28,Withdrawn,111.2,3
+P00274,S002,United States,58,Female,2024-09-01,Withdrawn,52.9,4
+P00275,S030,Italy,69,Female,2024-07-18,Active,96.8,2
+P00276,S030,Italy,51,Female,2025-06-06,Active,24.1,1
+P00277,S026,Germany,69,Male,2024-04-01,Screen Failed,8.5,1
+P00278,S029,United Kingdom,70,Female,2024-04-10,Active,43.9,2
+P00279,S042,Spain,68,Male,2025-05-04,Active,93.4,1
+P00280,S037,South Korea,50,Female,2025-03-27,Active,18.1,0
+P00281,S030,Italy,62,Female,2024-08-29,Screen Failed,55.9,0
+P00282,S035,Japan,63,Female,2025-01-09,Withdrawn,44.5,1
+P00283,S015,Canada,36,Male,2025-03-04,Active,81.6,0
+P00284,S020,United States,30,Male,2025-04-27,Completed,49.5,0
+P00285,S012,Japan,56,Male,2024-08-09,Active,38.6,1
+P00286,S017,Spain,44,Female,2024-02-01,Completed,109.7,0
+P00287,S021,India,34,Male,2024-07-02,Withdrawn,120.4,6
+P00288,S010,United States,30,Female,2024-04-23,Screen Failed,40.3,2
+P00289,S040,Australia,43,Male,2024-12-05,Completed,23.3,0
+P00290,S014,Spain,50,Female,2025-03-03,Screen Failed,12.9,1
+P00291,S015,Canada,75,Female,2025-01-13,Screen Failed,11.1,0
+P00292,S006,Canada,64,Female,2025-03-25,Active,7.0,1
+P00293,S023,United Kingdom,45,Male,2025-05-15,Active,29.3,0
+P00294,S041,United States,58,Female,2025-07-03,Active,63.1,1
+P00295,S002,United States,60,Male,2024-08-01,Active,72.2,2
+P00296,S011,Spain,55,Male,2025-05-06,Active,33.0,0
+P00297,S036,Mexico,50,Female,2024-09-11,Completed,9.5,1
+P00298,S036,Mexico,64,Female,2024-11-03,Withdrawn,19.3,1
+P00299,S028,United Kingdom,85,Male,2023-10-01,Active,6.4,2
+P00300,S006,Canada,36,Female,2024-06-08,Active,0.8,1
+P00301,S024,France,46,Female,2025-04-06,Withdrawn,121.6,2
+P00302,S031,United States,34,Male,2023-12-09,Active,18.1,0
+P00303,S031,United States,61,Female,2024-02-03,Completed,51.2,0
+P00304,S005,Australia,76,Female,2024-04-11,Active,78.6,0
+P00305,S015,Canada,44,Male,2024-07-17,Screen Failed,42.5,0
+P00306,S004,Spain,36,Male,2024-03-01,Active,146.4,0
+P00307,S024,France,58,Female,2025-04-15,Completed,26.6,0
+P00308,S015,Canada,65,Male,2024-03-21,Screen Failed,78.7,2
+P00309,S032,Brazil,44,Female,2025-06-11,Active,28.9,1
+P00310,S030,Italy,53,Female,2024-06-09,Withdrawn,7.9,1
+P00311,S020,United States,43,Male,2025-03-10,Completed,38.3,2
+P00312,S018,South Korea,71,Male,2024-06-02,Completed,95.8,2
+P00313,S036,Mexico,86,Female,2025-01-07,Completed,3.3,1
+P00314,S036,Mexico,59,Male,2023-08-01,Withdrawn,53.3,1
+P00315,S014,Spain,42,Female,2025-06-13,Completed,3.2,1
+P00316,S014,Spain,35,Female,2024-02-14,Completed,17.7,0
+P00317,S028,United Kingdom,65,Female,2023-09-20,Active,64.0,2
+P00318,S040,Australia,54,Male,2025-06-17,Active,94.3,1
+P00319,S037,South Korea,57,Female,2023-10-09,Active,54.6,0
+P00320,S005,Australia,58,Male,2023-09-21,Active,58.1,0
+P00321,S031,United States,54,Female,2024-01-25,Completed,35.9,1
+P00322,S037,South Korea,53,Male,2025-03-29,Active,89.6,0
+P00323,S028,United Kingdom,44,Male,2024-10-19,Completed,24.4,0
+P00324,S007,Netherlands,61,Female,2024-01-06,Screen Failed,106.0,0
+P00325,S002,United States,61,Female,2024-06-16,Active,59.8,0
+P00326,S022,Australia,54,Male,2023-11-12,Active,20.3,0
+P00327,S029,United Kingdom,61,Female,2025-06-06,Active,36.8,0
+P00328,S003,Italy,36,Female,2024-06-24,Withdrawn,53.1,1
+P00329,S042,Spain,56,Male,2024-03-02,Completed,184.0,0
+P00330,S007,Netherlands,49,Male,2024-04-10,Completed,94.5,0
+P00331,S006,Canada,48,Female,2024-10-11,Withdrawn,24.9,5
+P00332,S019,India,56,Male,2025-06-19,Completed,44.9,1
+P00333,S010,United States,37,Female,2024-12-21,Completed,61.5,2
+P00334,S019,India,28,Male,2025-02-03,Active,23.0,0
+P00335,S013,United States,46,Female,2023-10-11,Screen Failed,26.8,0
+P00336,S001,Canada,59,Male,2024-03-28,Active,99.7,3
+P00337,S006,Canada,26,Male,2024-09-22,Active,65.1,0
+P00338,S021,India,82,Female,2025-05-24,Completed,5.7,0
+P00339,S032,Brazil,21,Female,2024-09-17,Completed,57.6,0
+P00340,S033,Germany,47,Female,2025-05-08,Screen Failed,77.9,2
+P00341,S030,Italy,31,Male,2024-05-08,Completed,64.3,0
+P00342,S038,Mexico,48,Female,2025-06-05,Active,21.7,1
+P00343,S038,Mexico,72,Female,2024-01-10,Active,2.4,0
+P00344,S007,Netherlands,75,Female,2024-09-20,Active,46.8,0
+P00345,S030,Italy,48,Male,2025-03-20,Screen Failed,42.6,0
+P00346,S041,United States,56,Male,2024-03-03,Completed,136.8,0
+P00347,S014,Spain,70,Male,2024-12-26,Active,37.9,0
+P00348,S008,Germany,44,Male,2024-03-19,Screen Failed,93.6,1
+P00349,S013,United States,62,Male,2024-11-14,Active,106.8,0
+P00350,S006,Canada,72,Male,2025-03-01,Completed,33.4,1
+P00351,S023,United Kingdom,44,Female,2025-02-10,Completed,226.9,1
+P00352,S032,Brazil,66,Male,2024-09-10,Active,58.5,1
+P00353,S015,Canada,39,Male,2023-10-15,Active,20.3,2
+P00354,S006,Canada,26,Male,2024-08-21,Completed,7.7,2
+P00355,S035,Japan,51,Male,2024-11-18,Active,49.2,0
+P00356,S036,Mexico,57,Female,2023-08-13,Active,45.6,1
+P00357,S008,Germany,58,Male,2024-11-14,Active,137.0,0
+P00358,S008,Germany,54,Male,2023-09-01,Completed,44.9,2
+P00359,S022,Australia,60,Female,2024-06-10,Completed,117.3,1
+P00360,S014,Spain,64,Male,2024-08-09,Active,29.1,2
+P00361,S033,Germany,52,Male,2024-05-17,Completed,90.3,0
+P00362,S032,Brazil,36,Female,2024-04-19,Active,168.2,0
+P00363,S018,South Korea,45,Male,2025-04-23,Screen Failed,68.3,1
+P00364,S009,Poland,62,Female,2024-07-16,Completed,55.4,1
+P00365,S001,Canada,43,Female,2023-12-11,Active,111.0,0
+P00366,S015,Canada,63,Female,2024-01-13,Completed,5.6,0
+P00367,S037,South Korea,78,Male,2024-08-28,Active,166.1,1
+P00368,S019,India,48,Female,2024-11-02,Active,131.6,0
+P00369,S028,United Kingdom,70,Female,2024-10-15,Active,93.4,1
+P00370,S029,United Kingdom,45,Female,2025-05-16,Active,2.3,1
+P00371,S025,India,76,Male,2025-02-15,Active,57.2,0
+P00372,S036,Mexico,67,Female,2024-06-07,Active,64.1,0
+P00373,S003,Italy,69,Female,2025-03-12,Active,43.0,1
+P00374,S019,India,44,Female,2024-09-21,Active,5.6,0
+P00375,S019,India,52,Female,2024-03-08,Screen Failed,71.9,3
+P00376,S019,India,52,Male,2024-01-12,Active,35.4,1
+P00377,S019,India,48,Male,2025-05-29,Active,29.7,1
+P00378,S016,Japan,69,Male,2024-02-20,Completed,104.3,0
+P00379,S002,United States,46,Female,2024-05-30,Completed,65.5,0
+P00380,S041,United States,64,Female,2025-02-01,Withdrawn,50.5,3
+P00381,S035,Japan,37,Male,2024-09-14,Screen Failed,95.0,0
+P00382,S032,Brazil,18,Female,2024-11-22,Active,114.0,0
+P00383,S032,Brazil,45,Male,2024-03-31,Active,73.0,0
+P00384,S033,Germany,60,Male,2024-07-02,Withdrawn,37.4,1
+P00385,S003,Italy,40,Female,2024-03-14,Active,9.9,1
+P00386,S013,United States,41,Male,2024-06-16,Withdrawn,139.9,2
+P00387,S021,India,20,Male,2024-03-28,Completed,14.9,1
+P00388,S030,Italy,66,Male,2024-02-17,Active,115.8,1
+P00389,S003,Italy,32,Female,2024-02-11,Active,45.9,1
+P00390,S029,United Kingdom,46,Male,2024-09-13,Completed,47.7,1
+P00391,S042,Spain,31,Male,2025-04-26,Active,4.2,0
+P00392,S012,Japan,70,Male,2024-09-23,Completed,10.1,1
+P00393,S023,United Kingdom,49,Female,2024-07-11,Active,43.1,0
+P00394,S005,Australia,56,Male,2024-01-08,Active,21.5,0
+P00395,S008,Germany,47,Male,2024-02-07,Withdrawn,18.6,2
+P00396,S023,United Kingdom,82,Male,2024-04-18,Completed,57.5,0
+P00397,S003,Italy,45,Male,2024-08-28,Active,50.5,0
+P00398,S015,Canada,62,Female,2024-02-25,Completed,89.5,0
+P00399,S010,United States,48,Female,2024-06-26,Active,111.0,2
+P00400,S004,Spain,61,Male,2024-12-09,Active,21.8,1
+P00401,S022,Australia,58,Female,2024-06-30,Completed,150.4,0
+P00402,S033,Germany,43,Female,2023-07-10,Active,116.8,0
+P00403,S023,United Kingdom,66,Male,2024-01-23,Active,120.2,1
+P00404,S018,South Korea,44,Male,2024-04-12,Active,86.3,0
+P00405,S008,Germany,67,Male,2024-02-08,Completed,13.3,2
+P00406,S042,Spain,63,Female,2024-12-01,Active,5.3,0
+P00407,S009,Poland,58,Female,2024-05-16,Completed,5.8,0
+P00408,S028,United Kingdom,64,Male,2024-08-31,Active,3.1,2
+P00409,S041,United States,57,Female,2024-05-08,Active,38.6,1
+P00410,S037,South Korea,53,Female,2025-07-13,Active,19.5,0
+P00411,S001,Canada,70,Female,2024-09-09,Completed,134.5,1
+P00412,S032,Brazil,89,Female,2024-04-11,Completed,47.3,2
+P00413,S031,United States,49,Female,2024-06-20,Active,60.3,0
+P00414,S016,Japan,26,Female,2024-03-11,Active,113.9,1
+P00415,S008,Germany,65,Female,2024-01-30,Withdrawn,3.7,1
+P00416,S016,Japan,61,Male,2024-12-30,Active,20.9,1
+P00417,S028,United Kingdom,67,Male,2024-03-14,Active,62.3,2
+P00418,S030,Italy,47,Male,2025-01-18,Active,13.8,1
+P00419,S008,Germany,48,Female,2025-06-12,Active,63.5,0
+P00420,S029,United Kingdom,61,Male,2024-11-23,Active,41.5,0
+P00421,S014,Spain,68,Male,2024-01-23,Withdrawn,97.5,5
+P00422,S030,Italy,35,Female,2025-01-15,Completed,28.8,0
+P00423,S020,United States,69,Male,2024-01-02,Active,27.7,0
+P00424,S042,Spain,52,Male,2024-10-12,Active,4.1,0
+P00425,S002,United States,58,Male,2025-01-17,Active,51.5,1
+P00426,S039,South Korea,56,Female,2024-09-26,Completed,139.1,1
+P00427,S041,United States,40,Female,2025-07-03,Completed,151.9,0
+P00428,S037,South Korea,69,Female,2025-03-25,Withdrawn,4.2,2
+P00429,S012,Japan,53,Male,2024-04-04,Active,52.5,1
+P00430,S014,Spain,49,Female,2024-05-15,Completed,47.6,0
+P00431,S038,Mexico,59,Male,2024-03-22,Active,31.5,1
+P00432,S004,Spain,66,Female,2024-12-06,Active,9.6,1
+P00433,S026,Germany,43,Male,2023-12-07,Active,62.3,1
+P00434,S005,Australia,54,Male,2023-10-01,Completed,84.1,2
+P00435,S026,Germany,18,Female,2023-10-20,Active,103.3,0
+P00436,S033,Germany,63,Male,2024-02-01,Active,122.2,1
+P00437,S028,United Kingdom,71,Male,2025-06-06,Active,82.4,0
+P00438,S023,United Kingdom,78,Male,2024-10-12,Screen Failed,43.9,0
+P00439,S021,India,59,Male,2025-01-15,Withdrawn,32.1,3
+P00440,S013,United States,56,Male,2023-08-24,Active,15.7,0
+P00441,S002,United States,47,Male,2023-07-07,Active,164.6,0
+P00442,S021,India,44,Female,2024-02-05,Active,97.6,1
+P00443,S011,Spain,51,Male,2024-06-16,Active,0.3,0
+P00444,S002,United States,54,Female,2024-03-09,Active,4.0,0
+P00445,S035,Japan,60,Male,2025-06-21,Completed,12.2,1
+P00446,S005,Australia,89,Male,2024-02-19,Active,123.6,0
+P00447,S016,Japan,69,Female,2025-04-08,Active,113.8,2
+P00448,S013,United States,54,Male,2023-09-02,Active,107.6,0
+P00449,S019,India,57,Male,2023-09-02,Withdrawn,32.8,4
+P00450,S029,United Kingdom,61,Female,2024-06-26,Active,1.8,0
+P00451,S003,Italy,76,Female,2024-09-13,Completed,4.3,0
+P00452,S020,United States,66,Male,2024-11-14,Completed,106.1,0
+P00453,S019,India,52,Male,2023-11-04,Completed,42.9,0
+P00454,S041,United States,55,Female,2025-03-13,Active,38.7,1
+P00455,S027,Poland,56,Male,2025-06-12,Screen Failed,72.4,1
+P00456,S038,Mexico,64,Female,2023-10-24,Active,2.4,0
+P00457,S007,Netherlands,53,Male,2024-01-13,Active,12.2,0
+P00458,S026,Germany,51,Male,2024-09-22,Completed,91.6,0
+P00459,S025,India,71,Male,2024-06-22,Completed,37.0,2
+P00460,S030,Italy,41,Male,2024-10-08,Active,101.3,0
+P00461,S034,Poland,73,Male,2024-10-23,Completed,60.5,2
+P00462,S015,Canada,50,Female,2025-02-16,Active,30.5,0
+P00463,S028,United Kingdom,68,Female,2024-04-30,Completed,56.4,0
+P00464,S019,India,69,Male,2025-05-10,Active,5.4,1
+P00465,S008,Germany,54,Female,2024-03-16,Withdrawn,35.5,1
+P00466,S019,India,51,Female,2024-09-18,Completed,103.0,1
+P00467,S017,Spain,80,Female,2024-05-25,Active,5.3,0
+P00468,S002,United States,47,Female,2024-08-26,Active,64.6,1
+P00469,S002,United States,52,Male,2023-08-12,Withdrawn,96.1,0
+P00470,S033,Germany,48,Male,2025-06-16,Withdrawn,21.5,2
+P00471,S041,United States,63,Female,2023-11-29,Withdrawn,122.3,4
+P00472,S017,Spain,49,Male,2025-01-24,Completed,104.6,0
+P00473,S008,Germany,78,Male,2024-10-29,Active,50.2,1
+P00474,S014,Spain,85,Female,2024-03-12,Active,100.5,0
+P00475,S003,Italy,36,Male,2023-09-20,Withdrawn,118.8,3
+P00476,S020,United States,41,Male,2023-12-04,Withdrawn,34.4,5
+P00477,S028,United Kingdom,47,Male,2024-08-30,Active,41.4,0
+P00478,S024,France,36,Female,2023-10-15,Active,9.0,3
+P00479,S037,South Korea,58,Female,2024-06-12,Active,4.7,1
+P00480,S037,South Korea,48,Male,2024-12-18,Withdrawn,100.9,1
+P00481,S042,Spain,69,Male,2024-07-24,Active,31.1,0
+P00482,S014,Spain,53,Female,2023-10-09,Completed,8.0,1
+P00483,S022,Australia,89,Female,2024-03-11,Active,70.2,1
+P00484,S036,Mexico,50,Male,2024-01-22,Active,50.6,1
+P00485,S010,United States,70,Male,2025-04-03,Active,168.3,0
+P00486,S037,South Korea,51,Female,2023-10-29,Active,20.8,0
+P00487,S028,United Kingdom,81,Male,2024-01-16,Active,44.9,1
+P00488,S014,Spain,50,Male,2024-03-12,Active,105.5,1
+P00489,S011,Spain,46,Female,2025-02-08,Active,40.5,2
+P00490,S007,Netherlands,65,Male,2024-09-19,Completed,139.0,1
+P00491,S033,Germany,58,Male,2025-02-19,Completed,3.2,0
+P00492,S004,Spain,68,Female,2023-11-16,Active,18.3,0
+P00493,S004,Spain,42,Male,2023-09-14,Completed,57.8,1
+P00494,S041,United States,49,Male,2024-02-20,Active,25.9,0
+P00495,S004,Spain,74,Male,2023-10-10,Screen Failed,133.0,0
+P00496,S004,Spain,54,Male,2024-01-07,Active,58.0,0
+P00497,S012,Japan,66,Male,2023-12-23,Completed,92.7,0
+P00498,S038,Mexico,45,Female,2023-10-07,Completed,13.6,0
+P00499,S012,Japan,55,Male,2025-02-28,Active,32.4,0
+P00500,S029,United Kingdom,54,Female,2024-09-12,Active,4.6,1
+P00501,S020,United States,79,Female,2025-03-01,Withdrawn,2.6,4
+P00502,S025,India,71,Female,2025-05-24,Screen Failed,65.7,0
+P00503,S033,Germany,53,Male,2024-05-21,Withdrawn,11.7,1
+P00504,S003,Italy,29,Female,2024-06-26,Active,48.3,0
+P00505,S001,Canada,45,Male,2024-03-24,Withdrawn,11.3,1
+P00506,S036,Mexico,54,Female,2024-04-21,Screen Failed,90.1,0
+P00507,S032,Brazil,44,Female,2024-02-15,Screen Failed,105.6,0
+P00508,S036,Mexico,49,Female,2024-08-03,Active,13.2,2
+P00509,S039,South Korea,59,Female,2024-06-02,Active,3.3,1
+P00510,S018,South Korea,52,Female,2024-09-09,Active,35.1,1
+P00511,S008,Germany,67,Female,2025-04-30,Withdrawn,158.4,4
+P00512,S033,Germany,71,Female,2024-12-29,Active,36.2,0
+P00513,S016,Japan,54,Female,2024-10-08,Completed,19.8,0
+P00514,S011,Spain,62,Female,2023-07-10,Withdrawn,56.1,1
+P00515,S033,Germany,71,Male,2023-12-16,Active,66.5,0
+P00516,S029,United Kingdom,49,Female,2024-11-11,Active,22.4,1
+P00517,S030,Italy,32,Female,2025-04-10,Completed,5.1,1
+P00518,S015,Canada,65,Female,2024-10-13,Completed,76.2,0
+P00519,S031,United States,56,Male,2023-08-16,Completed,11.9,0
+P00520,S003,Italy,51,Female,2025-01-26,Active,4.1,0
+P00521,S013,United States,32,Female,2025-02-28,Active,0.7,0
+P00522,S019,India,38,Male,2024-09-09,Completed,63.8,0
+P00523,S023,United Kingdom,52,Female,2025-01-16,Active,21.8,1
+P00524,S030,Italy,54,Male,2023-12-21,Active,103.1,2
+P00525,S042,Spain,63,Female,2024-08-26,Active,4.5,0
+P00526,S002,United States,62,Male,2024-05-24,Completed,12.2,1
+P00527,S016,Japan,67,Female,2024-02-20,Active,218.0,1
+P00528,S038,Mexico,35,Male,2025-07-13,Completed,93.5,1
+P00529,S018,South Korea,48,Female,2024-05-07,Active,9.1,0
+P00530,S021,India,51,Male,2025-03-01,Active,88.2,0
+P00531,S003,Italy,61,Female,2025-06-23,Completed,2.8,0
+P00532,S012,Japan,54,Male,2024-07-28,Active,7.6,0
+P00533,S028,United Kingdom,59,Female,2024-05-20,Active,95.6,1
+P00534,S018,South Korea,73,Male,2024-02-08,Active,39.2,0
+P00535,S016,Japan,50,Female,2023-10-20,Active,112.2,2
+P00536,S007,Netherlands,60,Female,2023-11-10,Completed,40.3,1
+P00537,S007,Netherlands,54,Male,2024-05-11,Active,9.7,0
+P00538,S030,Italy,62,Female,2024-07-30,Active,42.8,0
+P00539,S035,Japan,84,Male,2024-11-19,Withdrawn,19.8,0
+P00540,S008,Germany,27,Female,2024-05-27,Completed,110.6,0
+P00541,S003,Italy,60,Female,2025-01-23,Withdrawn,9.7,6
+P00542,S013,United States,59,Male,2023-07-05,Withdrawn,110.1,1
+P00543,S028,United Kingdom,59,Male,2023-10-04,Active,49.6,0
+P00544,S021,India,54,Male,2024-01-12,Active,84.3,0
+P00545,S029,United Kingdom,40,Male,2023-09-15,Active,119.1,1
+P00546,S001,Canada,60,Female,2025-02-09,Active,90.3,0
+P00547,S040,Australia,62,Male,2025-04-16,Completed,8.8,0
+P00548,S036,Mexico,36,Male,2025-03-05,Active,85.7,0
+P00549,S019,India,53,Female,2023-07-17,Completed,128.0,0
+P00550,S014,Spain,47,Male,2025-04-19,Active,17.8,2
+P00551,S033,Germany,35,Male,2024-06-08,Active,139.1,2
+P00552,S016,Japan,31,Female,2023-09-14,Active,144.2,0
+P00553,S025,India,73,Male,2024-08-29,Completed,9.6,0
+P00554,S039,South Korea,36,Female,2024-10-15,Active,3.8,0
+P00555,S011,Spain,56,Male,2024-07-01,Active,11.6,2
+P00556,S026,Germany,51,Male,2024-07-06,Active,25.4,1
+P00557,S016,Japan,51,Female,2023-09-12,Screen Failed,143.1,0
+P00558,S022,Australia,66,Female,2024-02-26,Withdrawn,8.0,2
+P00559,S037,South Korea,18,Male,2023-12-09,Completed,148.3,1
+P00560,S031,United States,56,Female,2024-02-23,Active,51.6,1
+P00561,S037,South Korea,29,Male,2025-04-26,Active,19.4,0
+P00562,S007,Netherlands,58,Male,2024-07-04,Active,140.8,0
+P00563,S019,India,44,Female,2023-08-07,Withdrawn,216.5,1
+P00564,S014,Spain,54,Male,2024-11-11,Withdrawn,9.2,0
+P00565,S032,Brazil,71,Male,2025-02-23,Active,156.0,0
+P00566,S014,Spain,65,Female,2025-01-03,Completed,103.8,2
+P00567,S017,Spain,74,Female,2024-02-29,Completed,37.9,0
+P00568,S024,France,29,Female,2023-06-29,Withdrawn,133.2,2
+P00569,S041,United States,31,Female,2024-06-20,Completed,43.9,1
+P00570,S023,United Kingdom,65,Female,2023-12-01,Active,64.9,0
+P00571,S040,Australia,61,Female,2025-03-31,Active,43.9,0
+P00572,S039,South Korea,66,Male,2023-10-11,Active,81.5,2
+P00573,S035,Japan,46,Female,2025-06-08,Active,104.3,3
+P00574,S025,India,38,Male,2024-11-23,Active,102.9,0
+P00575,S017,Spain,60,Female,2023-11-07,Screen Failed,46.4,0
+P00576,S002,United States,46,Female,2025-05-26,Active,63.9,0
+P00577,S031,United States,53,Female,2024-02-26,Active,9.4,2
+P00578,S041,United States,60,Female,2025-01-02,Active,1.9,0
+P00579,S031,United States,50,Male,2024-05-24,Active,96.3,1
+P00580,S007,Netherlands,57,Female,2024-07-02,Active,70.2,0
+P00581,S015,Canada,63,Female,2024-07-28,Screen Failed,39.1,1
+P00582,S028,United Kingdom,48,Male,2024-06-23,Completed,69.7,2
+P00583,S030,Italy,54,Female,2023-11-30,Active,11.9,0
+P00584,S016,Japan,45,Female,2023-12-20,Active,74.0,0
+P00585,S032,Brazil,44,Female,2024-10-04,Screen Failed,53.6,0
+P00586,S019,India,51,Female,2025-01-11,Active,40.5,0
+P00587,S003,Italy,61,Female,2023-10-30,Completed,75.9,1
+P00588,S010,United States,51,Female,2023-09-02,Active,19.0,1
+P00589,S013,United States,46,Female,2025-01-21,Active,137.6,0
+P00590,S023,United Kingdom,30,Female,2025-03-26,Completed,6.9,1
+P00591,S018,South Korea,66,Male,2024-02-23,Active,109.2,0
+P00592,S018,South Korea,68,Male,2025-02-02,Active,10.7,0
+P00593,S021,India,41,Male,2024-01-23,Active,77.4,2
+P00594,S004,Spain,39,Female,2023-06-21,Withdrawn,195.9,1
+P00595,S028,United Kingdom,74,Male,2025-01-01,Active,10.9,0
+P00596,S041,United States,71,Female,2025-03-30,Active,10.1,1
+P00597,S028,United Kingdom,38,Female,2024-09-19,Completed,31.9,2
+P00598,S008,Germany,41,Female,2024-11-22,Active,101.3,2
+P00599,S027,Poland,68,Male,2025-04-17,Active,18.4,0
+P00600,S026,Germany,70,Female,2024-07-09,Active,10.2,0
+P00601,S041,United States,69,Male,2024-08-09,Active,97.3,2
+P00602,S001,Canada,49,Female,2024-04-12,Active,109.9,0
+P00603,S032,Brazil,52,Female,2025-01-28,Completed,100.5,0
+P00604,S031,United States,65,Female,2024-04-27,Completed,0.3,1
+P00605,S029,United Kingdom,65,Female,2025-05-26,Withdrawn,3.4,3
+P00606,S012,Japan,40,Female,2025-04-20,Completed,48.4,0
+P00607,S012,Japan,53,Female,2025-07-03,Withdrawn,46.2,2
+P00608,S041,United States,43,Female,2024-02-29,Active,153.8,3
+P00609,S010,United States,73,Male,2024-04-19,Completed,136.9,0
+P00610,S004,Spain,63,Female,2025-03-29,Active,106.2,1
+P00611,S024,France,42,Female,2024-04-25,Active,79.0,1
+P00612,S020,United States,34,Male,2024-02-03,Completed,34.8,0
+P00613,S031,United States,31,Male,2024-07-04,Active,36.7,1
+P00614,S036,Mexico,25,Female,2025-05-11,Active,12.1,0
+P00615,S002,United States,54,Female,2024-04-08,Active,92.0,0
+P00616,S040,Australia,27,Female,2025-07-08,Withdrawn,3.9,3
+P00617,S008,Germany,61,Male,2025-02-22,Active,164.7,2
+P00618,S014,Spain,39,Female,2024-11-25,Screen Failed,53.0,0
+P00619,S023,United Kingdom,23,Female,2023-10-07,Active,15.3,2
+P00620,S039,South Korea,61,Female,2025-06-20,Withdrawn,106.9,2
+P00621,S041,United States,68,Female,2023-12-17,Completed,24.5,0
+P00622,S037,South Korea,24,Female,2025-06-22,Active,39.5,2
+P00623,S019,India,38,Female,2024-03-15,Completed,39.2,0
+P00624,S031,United States,59,Female,2023-10-12,Completed,9.1,0
+P00625,S008,Germany,55,Female,2025-03-30,Active,6.2,0
+P00626,S002,United States,78,Female,2023-09-10,Active,96.3,1
+P00627,S016,Japan,50,Female,2025-05-13,Withdrawn,65.6,2
+P00628,S018,South Korea,49,Female,2023-06-17,Screen Failed,9.3,0
+P00629,S041,United States,68,Female,2023-12-29,Active,18.8,0
+P00630,S024,France,83,Female,2025-04-09,Screen Failed,41.7,1
+P00631,S022,Australia,68,Female,2025-06-25,Active,124.9,0
+P00632,S006,Canada,50,Female,2023-10-03,Screen Failed,32.6,0
+P00633,S015,Canada,60,Male,2025-02-20,Active,98.1,0
+P00634,S038,Mexico,42,Male,2024-02-25,Active,98.0,0
+P00635,S019,India,53,Male,2024-10-13,Completed,28.8,1
+P00636,S013,United States,43,Male,2024-04-08,Active,40.4,1
+P00637,S036,Mexico,59,Male,2023-08-22,Completed,23.2,0
+P00638,S034,Poland,58,Male,2024-04-04,Screen Failed,21.0,0
+P00639,S037,South Korea,52,Female,2024-12-08,Completed,42.8,0
+P00640,S035,Japan,68,Female,2024-08-19,Completed,81.2,0
+P00641,S004,Spain,50,Female,2025-06-11,Active,27.3,1
+P00642,S029,United Kingdom,67,Male,2024-10-06,Completed,2.7,0
+P00643,S035,Japan,27,Male,2025-04-27,Withdrawn,8.7,2
+P00644,S017,Spain,62,Female,2024-07-07,Withdrawn,21.8,3
+P00645,S011,Spain,51,Male,2024-08-03,Screen Failed,40.2,2
+P00646,S004,Spain,83,Female,2024-09-29,Active,50.9,1
+P00647,S033,Germany,55,Male,2023-12-20,Active,95.3,1
+P00648,S032,Brazil,73,Male,2024-12-03,Screen Failed,6.5,0
+P00649,S038,Mexico,58,Female,2024-03-12,Active,139.8,1
+P00650,S038,Mexico,57,Female,2024-01-30,Withdrawn,30.3,2
+P00651,S031,United States,42,Female,2023-10-05,Active,13.2,0
+P00652,S011,Spain,44,Female,2025-06-29,Active,59.4,1
+P00653,S009,Poland,57,Female,2025-02-04,Completed,16.9,1
+P00654,S034,Poland,47,Female,2024-12-21,Withdrawn,101.1,4
+P00655,S013,United States,62,Male,2023-08-23,Active,48.6,1
+P00656,S030,Italy,40,Female,2023-12-15,Active,59.0,2
+P00657,S005,Australia,40,Female,2024-03-23,Completed,19.8,0
+P00658,S013,United States,74,Male,2023-06-29,Active,1.2,1
+P00659,S025,India,55,Male,2024-04-22,Active,13.7,2
+P00660,S038,Mexico,50,Female,2023-10-04,Completed,194.7,2
+P00661,S026,Germany,64,Female,2024-05-11,Completed,158.3,1
+P00662,S002,United States,62,Male,2024-05-15,Active,18.5,0
+P00663,S002,United States,71,Male,2023-12-27,Active,29.2,0
+P00664,S029,United Kingdom,45,Female,2024-04-26,Active,49.2,0
+P00665,S033,Germany,72,Female,2024-11-19,Completed,1.4,1
+P00666,S025,India,62,Female,2024-01-16,Completed,34.3,1
+P00667,S026,Germany,78,Male,2024-01-09,Active,57.3,0
+P00668,S027,Poland,47,Female,2024-10-30,Active,182.2,1
+P00669,S023,United Kingdom,62,Female,2024-03-31,Completed,31.5,0
+P00670,S020,United States,66,Male,2024-11-12,Completed,129.3,1
+P00671,S041,United States,54,Male,2024-08-18,Active,131.1,1
+P00672,S013,United States,36,Female,2024-08-29,Active,95.9,1
+P00673,S008,Germany,48,Male,2024-01-31,Active,128.6,1
+P00674,S002,United States,79,Male,2024-10-17,Completed,52.9,1
+P00675,S036,Mexico,40,Male,2024-06-03,Active,108.0,0
+P00676,S026,Germany,89,Female,2024-12-04,Active,11.4,1
+P00677,S027,Poland,47,Female,2025-05-09,Active,91.1,0
+P00678,S005,Australia,51,Female,2024-07-14,Withdrawn,72.7,5
+P00679,S010,United States,41,Male,2024-02-09,Active,96.8,1
+P00680,S038,Mexico,67,Male,2024-09-06,Completed,34.1,1
+P00681,S036,Mexico,51,Male,2023-08-17,Active,2.4,4
+P00682,S017,Spain,47,Male,2025-06-06,Completed,2.6,0
+P00683,S012,Japan,29,Female,2025-07-07,Active,3.7,0
+P00684,S007,Netherlands,50,Male,2024-02-19,Screen Failed,126.5,2
+P00685,S013,United States,45,Female,2025-06-16,Active,52.5,0
+P00686,S007,Netherlands,68,Male,2024-12-01,Completed,50.4,0
+P00687,S030,Italy,48,Female,2024-07-04,Screen Failed,54.7,1
+P00688,S005,Australia,58,Female,2024-03-24,Withdrawn,63.2,3
+P00689,S026,Germany,37,Female,2025-07-15,Active,124.2,0
+P00690,S021,India,54,Male,2025-03-30,Completed,3.0,0
+P00691,S014,Spain,37,Male,2023-11-28,Active,135.2,1
+P00692,S033,Germany,21,Female,2024-04-08,Active,69.4,0
+P00693,S024,France,50,Male,2024-03-17,Completed,7.6,0
+P00694,S032,Brazil,65,Female,2024-03-03,Completed,113.7,0
+P00695,S036,Mexico,67,Female,2024-12-01,Active,18.3,0
+P00696,S020,United States,48,Male,2023-06-19,Active,50.3,0
+P00697,S010,United States,80,Female,2025-03-13,Active,23.5,1
+P00698,S025,India,76,Male,2024-06-08,Withdrawn,56.3,2
+P00699,S009,Poland,41,Male,2023-09-16,Active,7.1,1
+P00700,S040,Australia,43,Male,2025-04-16,Completed,162.6,1
+P00701,S017,Spain,46,Male,2025-02-04,Active,3.2,1
+P00702,S034,Poland,70,Female,2025-06-27,Active,96.7,1
+P00703,S011,Spain,48,Male,2025-05-09,Completed,10.7,0
+P00704,S037,South Korea,61,Male,2025-01-25,Active,55.1,1
+P00705,S007,Netherlands,24,Male,2025-03-15,Withdrawn,93.4,2
+P00706,S014,Spain,45,Female,2025-05-12,Completed,8.1,0
+P00707,S039,South Korea,22,Male,2025-02-03,Active,50.0,0
+P00708,S021,India,24,Male,2023-12-27,Active,19.7,2
+P00709,S018,South Korea,48,Male,2025-02-13,Completed,91.1,0
+P00710,S016,Japan,59,Male,2024-01-09,Completed,65.0,2
+P00711,S022,Australia,24,Female,2024-01-04,Active,64.0,0
+P00712,S002,United States,78,Female,2024-01-01,Completed,20.9,0
+P00713,S003,Italy,46,Female,2025-01-20,Active,32.8,0
+P00714,S008,Germany,58,Female,2025-02-05,Active,106.7,1
+P00715,S032,Brazil,58,Female,2024-12-01,Active,9.5,1
+P00716,S040,Australia,47,Female,2023-12-13,Withdrawn,17.1,0
+P00717,S002,United States,55,Female,2023-09-08,Withdrawn,142.2,1
+P00718,S002,United States,72,Female,2024-10-09,Screen Failed,204.0,2
+P00719,S028,United Kingdom,37,Male,2023-08-31,Active,66.0,3
+P00720,S014,Spain,70,Male,2025-02-25,Active,115.7,0
+P00721,S031,United States,66,Female,2023-08-25,Withdrawn,161.6,2
+P00722,S020,United States,74,Male,2024-03-10,Active,50.6,0
+P00723,S036,Mexico,62,Male,2023-09-30,Withdrawn,2.2,1
+P00724,S027,Poland,51,Male,2025-05-17,Active,5.7,1
+P00725,S022,Australia,51,Female,2024-04-07,Screen Failed,38.0,2
+P00726,S038,Mexico,31,Male,2024-06-08,Screen Failed,59.5,1
+P00727,S001,Canada,62,Female,2024-01-13,Withdrawn,108.5,5
+P00728,S013,United States,38,Male,2025-02-01,Active,7.4,0
+P00729,S016,Japan,71,Female,2025-04-19,Completed,44.5,1
+P00730,S014,Spain,50,Female,2024-05-19,Active,23.8,0
+P00731,S027,Poland,37,Female,2024-08-19,Active,94.3,0
+P00732,S038,Mexico,50,Female,2024-03-01,Active,54.8,1
+P00733,S040,Australia,57,Female,2023-12-31,Withdrawn,37.5,3
+P00734,S036,Mexico,71,Female,2025-05-12,Active,146.5,0
+P00735,S026,Germany,39,Male,2025-06-08,Completed,137.9,0
+P00736,S004,Spain,52,Female,2025-06-21,Completed,121.6,1
+P00737,S029,United Kingdom,40,Female,2024-01-29,Active,6.6,1
+P00738,S041,United States,55,Female,2025-04-21,Active,149.8,1
+P00739,S042,Spain,27,Male,2025-03-06,Active,1.8,0
+P00740,S030,Italy,41,Female,2024-07-12,Completed,61.4,0
+P00741,S028,United Kingdom,60,Female,2023-09-25,Active,15.6,2
+P00742,S016,Japan,32,Male,2025-01-22,Active,105.8,1
+P00743,S011,Spain,53,Female,2023-12-08,Active,113.0,1
+P00744,S017,Spain,42,Male,2024-11-22,Active,57.8,1
+P00745,S020,United States,59,Male,2024-11-05,Completed,44.4,2
+P00746,S002,United States,51,Male,2024-04-20,Withdrawn,22.6,1
+P00747,S029,United Kingdom,54,Male,2025-03-21,Completed,43.9,0
+P00748,S019,India,60,Male,2024-08-26,Active,4.3,2
+P00749,S004,Spain,64,Male,2023-08-27,Completed,108.1,2
+P00750,S017,Spain,25,Female,2024-04-30,Completed,10.3,0
+P00751,S016,Japan,78,Male,2024-02-10,Active,77.6,0
+P00752,S018,South Korea,42,Male,2023-09-09,Active,7.0,0
+P00753,S036,Mexico,52,Female,2024-03-26,Active,46.4,1
+P00754,S012,Japan,46,Male,2025-01-30,Active,24.4,2
+P00755,S038,Mexico,73,Male,2024-02-23,Active,108.1,1
+P00756,S030,Italy,74,Female,2024-05-12,Withdrawn,19.6,2
+P00757,S036,Mexico,70,Female,2024-10-16,Active,59.8,0
+P00758,S039,South Korea,55,Female,2024-04-15,Completed,10.1,1
+P00759,S023,United Kingdom,63,Female,2024-11-09,Completed,13.8,0
+P00760,S013,United States,29,Male,2024-06-04,Active,40.2,2
+P00761,S032,Brazil,72,Female,2024-10-18,Completed,57.3,1
+P00762,S033,Germany,37,Male,2025-06-03,Completed,10.8,1
+P00763,S028,United Kingdom,71,Female,2024-03-23,Withdrawn,4.5,3
+P00764,S014,Spain,69,Male,2024-10-28,Withdrawn,27.7,1
+P00765,S008,Germany,74,Male,2024-11-14,Active,169.9,0
+P00766,S018,South Korea,47,Female,2024-10-07,Active,3.7,0
+P00767,S030,Italy,38,Female,2024-07-09,Withdrawn,99.3,0
+P00768,S036,Mexico,58,Male,2024-12-02,Active,128.7,0
+P00769,S012,Japan,45,Male,2024-11-24,Screen Failed,91.4,1
+P00770,S002,United States,52,Male,2023-09-23,Completed,70.6,0
+P00771,S033,Germany,52,Male,2023-07-31,Active,121.1,0
+P00772,S042,Spain,53,Male,2023-10-07,Completed,67.5,0
+P00773,S031,United States,60,Female,2025-07-13,Active,16.4,1
+P00774,S019,India,50,Male,2023-10-09,Active,62.5,1
+P00775,S012,Japan,52,Male,2024-02-23,Active,14.4,1
+P00776,S011,Spain,41,Male,2024-07-31,Active,138.9,0
+P00777,S022,Australia,26,Female,2024-05-20,Screen Failed,17.6,0
+P00778,S008,Germany,44,Male,2024-05-06,Completed,69.7,2
+P00779,S007,Netherlands,42,Female,2025-06-08,Active,108.4,1
+P00780,S002,United States,35,Female,2024-11-30,Active,107.4,1
+P00781,S029,United Kingdom,61,Female,2024-08-01,Active,169.1,0
+P00782,S012,Japan,49,Female,2024-10-14,Withdrawn,18.5,3
+P00783,S036,Mexico,38,Male,2024-12-21,Active,86.9,0
+P00784,S030,Italy,49,Male,2025-04-27,Completed,11.0,0
+P00785,S042,Spain,66,Female,2024-11-25,Active,70.4,0
+P00786,S020,United States,79,Female,2025-03-09,Active,33.8,0
+P00787,S019,India,63,Male,2024-10-08,Active,66.5,0
+P00788,S040,Australia,27,Female,2025-06-04,Active,130.9,1
+P00789,S033,Germany,63,Female,2024-01-23,Active,10.2,1
+P00790,S006,Canada,43,Female,2024-12-09,Completed,225.5,2
+P00791,S030,Italy,77,Female,2024-01-19,Withdrawn,40.2,2
+P00792,S033,Germany,75,Female,2024-05-26,Active,9.0,1
+P00793,S028,United Kingdom,42,Male,2024-01-18,Completed,2.2,0
+P00794,S028,United Kingdom,63,Female,2024-04-17,Active,66.3,0
+P00795,S032,Brazil,49,Female,2025-07-02,Active,92.5,0
+P00796,S020,United States,24,Male,2024-03-12,Active,0.5,0
+P00797,S013,United States,55,Female,2025-05-01,Active,19.5,0
+P00798,S008,Germany,50,Female,2024-11-12,Active,12.3,2
+P00799,S038,Mexico,76,Female,2023-10-07,Completed,24.3,0
+P00800,S005,Australia,81,Female,2024-03-06,Active,32.2,0
+P00801,S039,South Korea,39,Male,2025-06-22,Screen Failed,43.9,0
+P00802,S023,United Kingdom,50,Female,2025-06-07,Withdrawn,41.9,6
+P00803,S013,United States,63,Female,2025-03-02,Active,125.2,1
+P00804,S032,Brazil,38,Male,2023-10-10,Active,103.7,1
+P00805,S016,Japan,43,Male,2024-01-04,Active,18.0,2
+P00806,S001,Canada,58,Female,2024-11-09,Screen Failed,43.6,0
+P00807,S013,United States,54,Female,2025-06-23,Screen Failed,66.7,1
+P00808,S023,United Kingdom,49,Female,2023-07-21,Active,43.1,1
+P00809,S028,United Kingdom,34,Female,2024-03-27,Active,93.5,0
+P00810,S006,Canada,45,Male,2025-07-08,Completed,96.8,1
+P00811,S024,France,71,Male,2025-02-04,Completed,103.9,0
+P00812,S018,South Korea,58,Male,2023-11-11,Screen Failed,79.1,1
+P00813,S007,Netherlands,41,Male,2025-03-13,Active,30.2,1
+P00814,S033,Germany,58,Male,2024-08-16,Withdrawn,112.2,3
+P00815,S002,United States,47,Female,2024-09-09,Active,33.6,1
+P00816,S006,Canada,29,Male,2025-03-06,Active,115.8,0
+P00817,S021,India,69,Female,2023-12-29,Completed,3.1,0
+P00818,S006,Canada,86,Female,2025-02-07,Screen Failed,70.8,0
+P00819,S012,Japan,69,Female,2025-02-25,Active,41.5,0
+P00820,S030,Italy,60,Male,2024-10-08,Withdrawn,10.2,4
+P00821,S032,Brazil,73,Male,2024-02-18,Active,22.0,0
+P00822,S031,United States,35,Female,2025-07-04,Active,118.5,0
+P00823,S039,South Korea,39,Male,2025-07-06,Completed,79.4,0
+P00824,S033,Germany,71,Female,2024-08-05,Screen Failed,61.2,0
+P00825,S040,Australia,46,Male,2025-03-02,Active,30.7,1
+P00826,S003,Italy,49,Male,2023-10-11,Active,104.5,0
+P00827,S008,Germany,25,Male,2025-04-14,Active,57.9,0
+P00828,S037,South Korea,44,Female,2023-12-09,Completed,108.8,0
+P00829,S029,United Kingdom,81,Male,2024-03-17,Active,2.2,2
+P00830,S041,United States,43,Female,2025-02-26,Active,45.7,0
+P00831,S028,United Kingdom,28,Male,2024-09-25,Active,14.4,0
+P00832,S018,South Korea,74,Female,2023-06-18,Active,46.2,1
+P00833,S003,Italy,84,Male,2024-01-31,Active,71.9,1
+P00834,S035,Japan,70,Female,2023-11-05,Active,67.2,0
+P00835,S025,India,51,Female,2024-06-25,Active,12.3,0
+P00836,S007,Netherlands,65,Male,2023-10-07,Active,19.8,1
+P00837,S041,United States,61,Male,2023-11-05,Completed,61.7,0
+P00838,S021,India,74,Male,2024-06-04,Active,124.8,2
+P00839,S041,United States,60,Male,2024-05-20,Active,70.4,2
+P00840,S035,Japan,18,Female,2024-10-01,Active,145.2,0
+P00841,S042,Spain,44,Male,2024-07-12,Active,60.3,1
+P00842,S003,Italy,48,Female,2023-12-31,Active,122.0,1
+P00843,S011,Spain,45,Male,2024-09-28,Active,100.1,1
+P00844,S016,Japan,52,Female,2025-01-03,Active,56.3,1
+P00845,S028,United Kingdom,60,Male,2025-05-11,Active,18.7,1
+P00846,S028,United Kingdom,72,Male,2024-11-14,Withdrawn,98.7,2
+P00847,S003,Italy,73,Male,2024-02-27,Active,25.9,0
+P00848,S030,Italy,61,Female,2024-11-10,Active,42.9,0
+P00849,S008,Germany,46,Female,2023-09-14,Completed,107.1,0
+P00850,S018,South Korea,46,Female,2025-07-14,Completed,25.1,0
+P00851,S017,Spain,51,Female,2025-03-26,Withdrawn,114.7,0
+P00852,S004,Spain,56,Male,2024-05-07,Withdrawn,29.9,4
+P00853,S006,Canada,83,Male,2023-10-27,Completed,1.6,2
+P00854,S004,Spain,62,Male,2024-12-10,Active,6.5,0
+P00855,S006,Canada,31,Male,2024-06-19,Active,15.5,3
+P00856,S017,Spain,55,Female,2025-05-03,Active,28.3,0
+P00857,S001,Canada,70,Female,2024-04-05,Active,58.5,0
+P00858,S019,India,73,Male,2023-11-02,Completed,40.9,0
+P00859,S008,Germany,75,Female,2023-11-19,Active,13.3,0
+P00860,S012,Japan,63,Female,2024-11-08,Completed,3.6,0
+P00861,S034,Poland,61,Male,2024-09-30,Active,22.6,1
+P00862,S014,Spain,81,Female,2025-01-05,Screen Failed,105.1,2
+P00863,S037,South Korea,47,Female,2024-05-25,Active,57.8,0
+P00864,S042,Spain,62,Female,2024-10-18,Completed,47.0,1
+P00865,S032,Brazil,77,Female,2024-03-02,Active,152.6,2
+P00866,S030,Italy,29,Male,2024-08-06,Withdrawn,5.3,3
+P00867,S042,Spain,59,Female,2024-06-27,Active,17.6,0
+P00868,S008,Germany,42,Female,2025-02-22,Active,144.3,3
+P00869,S016,Japan,51,Female,2023-10-27,Active,19.0,0
+P00870,S027,Poland,82,Male,2024-11-29,Active,120.0,0
+P00871,S020,United States,83,Female,2025-04-12,Active,8.3,1
+P00872,S016,Japan,76,Female,2024-08-31,Active,93.0,1
+P00873,S031,United States,73,Male,2025-04-10,Completed,46.5,1
+P00874,S007,Netherlands,58,Female,2024-05-25,Withdrawn,10.6,3
+P00875,S001,Canada,28,Female,2025-04-30,Active,46.4,0
+P00876,S027,Poland,53,Female,2024-06-22,Withdrawn,99.3,1
+P00877,S005,Australia,65,Male,2025-03-19,Active,108.3,0
+P00878,S038,Mexico,83,Female,2024-05-27,Withdrawn,97.6,0
+P00879,S037,South Korea,67,Female,2025-01-15,Active,31.8,1
+P00880,S032,Brazil,56,Male,2024-03-14,Withdrawn,85.5,2
+P00881,S010,United States,42,Female,2024-02-27,Active,118.3,1
+P00882,S028,United Kingdom,39,Male,2024-01-31,Active,3.0,0
+P00883,S008,Germany,33,Female,2025-06-13,Completed,101.7,0
+P00884,S035,Japan,55,Male,2024-12-06,Active,40.5,1
+P00885,S034,Poland,86,Male,2024-07-15,Screen Failed,38.1,3
+P00886,S014,Spain,33,Male,2023-11-17,Active,74.1,0
+P00887,S012,Japan,50,Male,2023-11-15,Completed,48.7,0
+P00888,S037,South Korea,60,Female,2024-06-28,Active,24.3,1
+P00889,S033,Germany,43,Female,2025-01-05,Active,18.5,0
+P00890,S042,Spain,69,Male,2024-05-19,Active,36.3,1
+P00891,S033,Germany,64,Female,2023-10-03,Active,158.0,0
+P00892,S007,Netherlands,68,Female,2023-08-28,Completed,39.0,1
+P00893,S011,Spain,26,Female,2025-06-13,Completed,19.5,1
+P00894,S012,Japan,54,Male,2024-09-27,Withdrawn,58.2,1
+P00895,S033,Germany,50,Male,2024-11-10,Screen Failed,48.7,2
+P00896,S041,United States,64,Female,2024-06-22,Active,16.5,0
+P00897,S003,Italy,40,Female,2025-04-15,Active,10.0,0
+P00898,S035,Japan,53,Female,2025-06-04,Completed,72.9,0
+P00899,S037,South Korea,59,Male,2024-06-22,Active,45.6,2
+P00900,S015,Canada,61,Male,2025-05-20,Active,24.3,1
+P00901,S006,Canada,67,Female,2023-09-17,Active,109.2,0
+P00902,S041,United States,45,Male,2024-04-01,Screen Failed,14.0,1
+P00903,S035,Japan,52,Female,2024-03-16,Active,68.4,0
+P00904,S031,United States,58,Male,2023-10-14,Completed,47.4,1
+P00905,S037,South Korea,51,Male,2024-08-18,Active,66.2,0
+P00906,S008,Germany,79,Male,2023-12-09,Active,63.4,1
+P00907,S031,United States,88,Male,2024-07-11,Active,21.6,2
+P00908,S006,Canada,57,Male,2025-03-30,Active,103.9,1
+P00909,S016,Japan,59,Male,2024-04-11,Active,4.2,0
+P00910,S038,Mexico,62,Female,2024-09-13,Active,1.7,2
+P00911,S013,United States,67,Male,2023-09-03,Screen Failed,57.5,0
+P00912,S001,Canada,43,Male,2024-03-06,Active,27.5,1
+P00913,S016,Japan,57,Female,2024-01-14,Active,20.3,1
+P00914,S022,Australia,24,Male,2024-06-17,Active,5.2,1
+P00915,S004,Spain,67,Male,2024-08-17,Active,18.8,0
+P00916,S033,Germany,77,Male,2025-01-22,Active,97.6,1
+P00917,S019,India,30,Male,2024-10-12,Completed,48.8,0
+P00918,S015,Canada,50,Female,2024-12-11,Active,31.7,1
+P00919,S039,South Korea,47,Male,2024-08-28,Withdrawn,98.0,2
+P00920,S039,South Korea,51,Female,2024-10-05,Withdrawn,65.0,2
+P00921,S004,Spain,58,Male,2024-10-29,Active,19.7,0
+P00922,S023,United Kingdom,56,Female,2024-11-23,Active,55.0,0
+P00923,S028,United Kingdom,45,Female,2023-08-23,Withdrawn,1.3,2
+P00924,S009,Poland,58,Female,2024-03-13,Completed,1.4,0
+P00925,S035,Japan,44,Female,2025-01-28,Completed,39.4,0
+P00926,S037,South Korea,26,Female,2025-05-24,Active,160.4,0
+P00927,S033,Germany,57,Male,2024-03-16,Completed,23.1,2
+P00928,S024,France,53,Male,2023-11-03,Completed,169.6,1
+P00929,S031,United States,34,Female,2023-11-12,Active,59.8,0
+P00930,S036,Mexico,46,Female,2024-10-30,Completed,0.0,0
+P00931,S012,Japan,57,Male,2023-11-05,Screen Failed,12.1,0
+P00932,S017,Spain,35,Male,2025-01-08,Active,163.0,1
+P00933,S015,Canada,51,Female,2025-06-27,Active,12.4,0
+P00934,S008,Germany,49,Female,2023-10-26,Screen Failed,53.5,0
+P00935,S029,United Kingdom,56,Male,2024-07-25,Completed,2.8,1
+P00936,S037,South Korea,72,Female,2024-05-22,Active,6.5,1
+P00937,S022,Australia,51,Female,2024-07-04,Active,101.7,0
+P00938,S017,Spain,56,Female,2023-11-09,Active,57.5,0
+P00939,S008,Germany,41,Male,2024-03-26,Completed,103.0,0
+P00940,S034,Poland,61,Male,2024-04-01,Active,47.1,1
+P00941,S024,France,50,Male,2025-06-01,Active,18.7,0
+P00942,S013,United States,43,Male,2024-09-08,Active,149.0,1
+P00943,S002,United States,48,Male,2025-04-19,Active,143.3,0
+P00944,S033,Germany,37,Male,2023-10-22,Active,4.0,1
+P00945,S033,Germany,70,Female,2025-01-13,Active,97.5,0
+P00946,S040,Australia,33,Male,2023-10-15,Active,87.4,2
+P00947,S004,Spain,36,Male,2023-08-20,Active,35.3,0
+P00948,S007,Netherlands,38,Male,2024-06-03,Active,31.8,1
+P00949,S007,Netherlands,45,Female,2024-05-20,Active,12.5,1
+P00950,S031,United States,44,Female,2024-10-08,Completed,15.8,1
+P00951,S020,United States,46,Male,2024-04-17,Active,44.1,1
+P00952,S030,Italy,60,Female,2024-01-18,Active,0.9,1
+P00953,S003,Italy,34,Male,2024-07-28,Active,107.1,0
+P00954,S007,Netherlands,62,Female,2024-03-24,Active,102.4,0
+P00955,S039,South Korea,53,Male,2023-10-09,Active,4.6,0
+P00956,S040,Australia,50,Male,2024-12-11,Withdrawn,6.2,3
+P00957,S037,South Korea,75,Male,2024-10-15,Completed,7.6,0
+P00958,S039,South Korea,87,Male,2024-08-06,Withdrawn,13.9,4
+P00959,S027,Poland,50,Male,2024-04-13,Active,9.0,2
+P00960,S016,Japan,30,Female,2024-01-10,Screen Failed,114.0,0
+P00961,S021,India,63,Male,2025-07-04,Completed,69.5,2
+P00962,S019,India,50,Male,2023-08-25,Active,106.0,0
+P00963,S034,Poland,56,Female,2024-01-09,Active,47.4,2
+P00964,S003,Italy,61,Female,2025-06-06,Active,18.0,1
+P00965,S032,Brazil,72,Male,2025-01-31,Active,97.2,1
+P00966,S010,United States,34,Male,2025-01-23,Screen Failed,12.1,1
+P00967,S011,Spain,52,Female,2024-01-25,Withdrawn,22.6,3
+P00968,S020,United States,61,Female,2023-09-02,Active,44.6,0
+P00969,S001,Canada,64,Male,2024-08-04,Active,63.9,1
+P00970,S032,Brazil,37,Female,2024-06-06,Completed,32.1,3
+P00971,S016,Japan,46,Female,2023-11-06,Active,119.7,0
+P00972,S015,Canada,56,Male,2024-09-07,Completed,149.2,1
+P00973,S021,India,48,Male,2023-12-27,Active,111.3,0
+P00974,S033,Germany,66,Male,2024-08-19,Active,65.8,0
+P00975,S019,India,61,Male,2024-11-15,Screen Failed,26.8,1
+P00976,S011,Spain,42,Female,2024-03-14,Withdrawn,1.5,4
+P00977,S041,United States,58,Male,2024-06-13,Active,26.2,0
+P00978,S003,Italy,56,Female,2025-01-10,Active,45.3,0
+P00979,S014,Spain,88,Male,2024-07-04,Completed,32.1,0
+P00980,S017,Spain,71,Male,2024-06-17,Screen Failed,123.6,3
+P00981,S027,Poland,61,Female,2023-11-12,Completed,34.2,1
+P00982,S023,United Kingdom,39,Female,2024-02-07,Screen Failed,14.2,0
+P00983,S010,United States,46,Male,2024-05-23,Active,43.1,0
+P00984,S029,United Kingdom,61,Male,2024-04-21,Completed,20.2,0
+P00985,S025,India,61,Female,2024-11-18,Completed,89.6,0
+P00986,S015,Canada,51,Male,2024-03-29,Active,46.8,0
+P00987,S021,India,62,Female,2024-05-04,Completed,0.4,1
+P00988,S021,India,50,Female,2025-06-21,Active,3.1,1
+P00989,S028,United Kingdom,52,Male,2023-12-03,Screen Failed,19.6,0
+P00990,S006,Canada,31,Male,2025-06-09,Active,63.6,0
+P00991,S010,United States,76,Female,2024-06-14,Active,42.2,1
+P00992,S002,United States,54,Male,2024-11-25,Active,1.9,1
+P00993,S002,United States,70,Female,2024-03-25,Active,10.7,0
+P00994,S002,United States,51,Male,2024-05-20,Active,20.9,1
+P00995,S015,Canada,44,Male,2023-11-27,Active,16.0,0
+P00996,S033,Germany,49,Male,2024-05-19,Active,118.6,2
+P00997,S031,United States,66,Female,2024-05-13,Active,21.3,0
+P00998,S033,Germany,34,Female,2023-08-25,Active,11.6,0
+P00999,S040,Australia,53,Male,2025-04-19,Screen Failed,125.4,1
+P01000,S012,Japan,44,Male,2025-01-27,Active,14.7,1

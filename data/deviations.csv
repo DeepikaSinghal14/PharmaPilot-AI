@@ -1,0 +1,261 @@
+Deviation_ID,Site_ID,Country,Type,Severity,Date_Reported
+D0001,S017,Spain,Dosing Error,Major,2023-12-26
+D0002,S015,Canada,Dosing Error,Major,2025-02-18
+D0003,S026,Germany,Missed Visit Window,Major,2023-11-04
+D0004,S038,Mexico,Inclusion/Exclusion Violation,Minor,2024-11-05
+D0005,S010,United States,Informed Consent Issue,Major,2024-08-05
+D0006,S015,Canada,Lab Sample Handling,Minor,2024-01-25
+D0007,S004,Spain,Inclusion/Exclusion Violation,Minor,2025-01-27
+D0008,S014,Spain,Inclusion/Exclusion Violation,Major,2024-05-09
+D0009,S036,Mexico,Documentation Error,Minor,2025-06-14
+D0010,S022,Australia,Documentation Error,Minor,2024-11-13
+D0011,S021,India,Informed Consent Issue,Major,2023-10-27
+D0012,S033,Germany,Missed Visit Window,Minor,2023-09-13
+D0013,S032,Brazil,Dosing Error,Minor,2024-02-03
+D0014,S021,India,Documentation Error,Major,2023-11-15
+D0015,S004,Spain,Informed Consent Issue,Minor,2023-10-13
+D0016,S020,United States,Inclusion/Exclusion Violation,Minor,2025-01-10
+D0017,S004,Spain,Missed Visit Window,Minor,2023-08-16
+D0018,S033,Germany,Dosing Error,Minor,2025-06-09
+D0019,S013,United States,Documentation Error,Minor,2024-10-02
+D0020,S036,Mexico,Missed Visit Window,Major,2024-06-06
+D0021,S036,Mexico,Inclusion/Exclusion Violation,Minor,2024-08-21
+D0022,S006,Canada,Informed Consent Issue,Major,2024-09-22
+D0023,S031,United States,Dosing Error,Major,2024-11-30
+D0024,S019,India,Inclusion/Exclusion Violation,Minor,2025-04-20
+D0025,S019,India,Missed Visit Window,Major,2024-10-28
+D0026,S004,Spain,Dosing Error,Minor,2025-07-05
+D0027,S005,Australia,Dosing Error,Minor,2024-04-08
+D0028,S008,Germany,Documentation Error,Critical,2025-06-25
+D0029,S004,Spain,Lab Sample Handling,Minor,2024-02-14
+D0030,S004,Spain,Documentation Error,Minor,2024-05-17
+D0031,S011,Spain,Dosing Error,Critical,2024-06-09
+D0032,S011,Spain,Documentation Error,Critical,2024-10-10
+D0033,S026,Germany,Inclusion/Exclusion Violation,Major,2025-03-01
+D0034,S016,Japan,Documentation Error,Major,2024-09-29
+D0035,S001,Canada,Inclusion/Exclusion Violation,Minor,2024-04-26
+D0036,S013,United States,Dosing Error,Minor,2023-08-03
+D0037,S027,Poland,Documentation Error,Minor,2024-07-24
+D0038,S027,Poland,Informed Consent Issue,Major,2023-10-16
+D0039,S022,Australia,Inclusion/Exclusion Violation,Major,2024-05-06
+D0040,S032,Brazil,Missed Visit Window,Minor,2024-02-25
+D0041,S011,Spain,Inclusion/Exclusion Violation,Minor,2024-10-20
+D0042,S030,Italy,Dosing Error,Minor,2025-06-30
+D0043,S005,Australia,Informed Consent Issue,Major,2023-10-31
+D0044,S032,Brazil,Lab Sample Handling,Minor,2024-09-30
+D0045,S037,South Korea,Missed Visit Window,Minor,2024-05-27
+D0046,S013,United States,Informed Consent Issue,Minor,2024-08-26
+D0047,S022,Australia,Lab Sample Handling,Minor,2025-06-14
+D0048,S039,South Korea,Documentation Error,Minor,2025-01-07
+D0049,S023,United Kingdom,Inclusion/Exclusion Violation,Minor,2023-07-14
+D0050,S031,United States,Lab Sample Handling,Major,2025-05-12
+D0051,S034,Poland,Inclusion/Exclusion Violation,Minor,2024-09-20
+D0052,S042,Spain,Lab Sample Handling,Critical,2024-01-16
+D0053,S017,Spain,Documentation Error,Critical,2024-10-01
+D0054,S009,Poland,Lab Sample Handling,Major,2024-08-13
+D0055,S022,Australia,Lab Sample Handling,Major,2025-06-16
+D0056,S041,United States,Informed Consent Issue,Minor,2024-07-18
+D0057,S020,United States,Lab Sample Handling,Major,2025-02-19
+D0058,S031,United States,Informed Consent Issue,Critical,2025-03-21
+D0059,S019,India,Inclusion/Exclusion Violation,Major,2025-07-03
+D0060,S025,India,Missed Visit Window,Major,2023-11-14
+D0061,S036,Mexico,Lab Sample Handling,Minor,2024-10-22
+D0062,S007,Netherlands,Documentation Error,Minor,2023-08-13
+D0063,S018,South Korea,Inclusion/Exclusion Violation,Minor,2024-12-02
+D0064,S023,United Kingdom,Missed Visit Window,Minor,2025-07-09
+D0065,S010,United States,Lab Sample Handling,Minor,2024-07-31
+D0066,S016,Japan,Dosing Error,Minor,2024-10-12
+D0067,S007,Netherlands,Missed Visit Window,Minor,2024-04-07
+D0068,S011,Spain,Missed Visit Window,Minor,2025-05-14
+D0069,S004,Spain,Dosing Error,Minor,2024-04-08
+D0070,S033,Germany,Lab Sample Handling,Minor,2025-01-28
+D0071,S027,Poland,Informed Consent Issue,Minor,2024-12-15
+D0072,S022,Australia,Inclusion/Exclusion Violation,Minor,2023-10-01
+D0073,S003,Italy,Dosing Error,Major,2024-10-22
+D0074,S032,Brazil,Informed Consent Issue,Minor,2024-03-30
+D0075,S028,United Kingdom,Documentation Error,Minor,2024-03-25
+D0076,S015,Canada,Missed Visit Window,Minor,2024-09-24
+D0077,S033,Germany,Missed Visit Window,Major,2024-04-12
+D0078,S007,Netherlands,Lab Sample Handling,Minor,2024-01-16
+D0079,S004,Spain,Dosing Error,Minor,2025-03-25
+D0080,S009,Poland,Dosing Error,Major,2025-06-22
+D0081,S012,Japan,Lab Sample Handling,Major,2024-10-24
+D0082,S029,United Kingdom,Inclusion/Exclusion Violation,Minor,2023-10-11
+D0083,S012,Japan,Informed Consent Issue,Minor,2023-11-13
+D0084,S006,Canada,Lab Sample Handling,Major,2024-11-21
+D0085,S035,Japan,Documentation Error,Minor,2025-05-18
+D0086,S029,United Kingdom,Documentation Error,Minor,2024-02-09
+D0087,S010,United States,Inclusion/Exclusion Violation,Major,2024-11-05
+D0088,S011,Spain,Lab Sample Handling,Minor,2024-11-02
+D0089,S034,Poland,Lab Sample Handling,Minor,2023-11-17
+D0090,S014,Spain,Missed Visit Window,Critical,2025-01-02
+D0091,S015,Canada,Lab Sample Handling,Major,2023-11-13
+D0092,S022,Australia,Documentation Error,Minor,2024-09-14
+D0093,S018,South Korea,Informed Consent Issue,Major,2024-10-14
+D0094,S034,Poland,Inclusion/Exclusion Violation,Minor,2024-04-04
+D0095,S029,United Kingdom,Documentation Error,Minor,2023-09-24
+D0096,S021,India,Documentation Error,Minor,2024-12-09
+D0097,S005,Australia,Inclusion/Exclusion Violation,Minor,2025-06-09
+D0098,S036,Mexico,Inclusion/Exclusion Violation,Minor,2025-07-13
+D0099,S001,Canada,Missed Visit Window,Critical,2025-05-16
+D0100,S023,United Kingdom,Inclusion/Exclusion Violation,Minor,2023-08-23
+D0101,S001,Canada,Lab Sample Handling,Minor,2024-12-01
+D0102,S031,United States,Missed Visit Window,Minor,2024-07-30
+D0103,S012,Japan,Inclusion/Exclusion Violation,Minor,2023-10-02
+D0104,S017,Spain,Missed Visit Window,Minor,2024-02-28
+D0105,S015,Canada,Informed Consent Issue,Minor,2025-06-13
+D0106,S012,Japan,Documentation Error,Major,2024-05-04
+D0107,S037,South Korea,Inclusion/Exclusion Violation,Minor,2025-02-08
+D0108,S011,Spain,Inclusion/Exclusion Violation,Minor,2023-11-13
+D0109,S031,United States,Lab Sample Handling,Minor,2025-07-15
+D0110,S014,Spain,Lab Sample Handling,Major,2023-12-30
+D0111,S039,South Korea,Missed Visit Window,Minor,2024-02-20
+D0112,S015,Canada,Informed Consent Issue,Minor,2025-02-24
+D0113,S002,United States,Inclusion/Exclusion Violation,Minor,2024-07-12
+D0114,S030,Italy,Dosing Error,Minor,2024-08-30
+D0115,S004,Spain,Missed Visit Window,Minor,2024-12-30
+D0116,S003,Italy,Dosing Error,Minor,2024-08-07
+D0117,S013,United States,Dosing Error,Major,2024-10-28
+D0118,S013,United States,Informed Consent Issue,Minor,2025-04-11
+D0119,S033,Germany,Lab Sample Handling,Major,2024-10-02
+D0120,S010,United States,Missed Visit Window,Minor,2024-09-23
+D0121,S024,France,Dosing Error,Minor,2023-10-13
+D0122,S021,India,Documentation Error,Minor,2023-11-21
+D0123,S020,United States,Lab Sample Handling,Minor,2024-11-19
+D0124,S021,India,Informed Consent Issue,Minor,2024-10-12
+D0125,S036,Mexico,Dosing Error,Minor,2025-05-03
+D0126,S030,Italy,Missed Visit Window,Minor,2025-01-03
+D0127,S042,Spain,Informed Consent Issue,Major,2023-10-11
+D0128,S019,India,Inclusion/Exclusion Violation,Minor,2024-04-07
+D0129,S026,Germany,Inclusion/Exclusion Violation,Major,2025-01-08
+D0130,S021,India,Lab Sample Handling,Critical,2025-06-23
+D0131,S026,Germany,Dosing Error,Minor,2024-10-27
+D0132,S027,Poland,Lab Sample Handling,Minor,2025-02-01
+D0133,S002,United States,Missed Visit Window,Minor,2025-02-04
+D0134,S026,Germany,Lab Sample Handling,Minor,2024-02-18
+D0135,S016,Japan,Missed Visit Window,Minor,2024-01-23
+D0136,S026,Germany,Inclusion/Exclusion Violation,Major,2025-06-22
+D0137,S025,India,Informed Consent Issue,Major,2025-02-22
+D0138,S032,Brazil,Documentation Error,Major,2025-05-08
+D0139,S042,Spain,Dosing Error,Minor,2024-01-20
+D0140,S023,United Kingdom,Lab Sample Handling,Minor,2024-11-12
+D0141,S039,South Korea,Documentation Error,Minor,2024-09-07
+D0142,S025,India,Informed Consent Issue,Minor,2024-07-08
+D0143,S016,Japan,Informed Consent Issue,Major,2025-02-02
+D0144,S041,United States,Inclusion/Exclusion Violation,Critical,2025-02-19
+D0145,S030,Italy,Inclusion/Exclusion Violation,Minor,2024-08-05
+D0146,S012,Japan,Missed Visit Window,Major,2024-06-24
+D0147,S006,Canada,Inclusion/Exclusion Violation,Minor,2023-12-04
+D0148,S002,United States,Informed Consent Issue,Minor,2023-11-24
+D0149,S025,India,Lab Sample Handling,Minor,2024-10-25
+D0150,S011,Spain,Dosing Error,Major,2025-04-10
+D0151,S031,United States,Lab Sample Handling,Critical,2023-09-08
+D0152,S021,India,Documentation Error,Minor,2024-06-28
+D0153,S016,Japan,Inclusion/Exclusion Violation,Minor,2024-04-26
+D0154,S037,South Korea,Informed Consent Issue,Major,2025-06-01
+D0155,S008,Germany,Inclusion/Exclusion Violation,Minor,2024-12-28
+D0156,S036,Mexico,Missed Visit Window,Minor,2024-07-15
+D0157,S022,Australia,Missed Visit Window,Major,2023-11-20
+D0158,S009,Poland,Documentation Error,Minor,2023-11-06
+D0159,S023,United Kingdom,Dosing Error,Major,2023-10-13
+D0160,S001,Canada,Informed Consent Issue,Minor,2024-07-02
+D0161,S037,South Korea,Dosing Error,Major,2024-08-22
+D0162,S022,Australia,Dosing Error,Minor,2025-03-21
+D0163,S041,United States,Documentation Error,Minor,2023-11-24
+D0164,S023,United Kingdom,Informed Consent Issue,Major,2025-05-08
+D0165,S003,Italy,Dosing Error,Minor,2025-03-05
+D0166,S007,Netherlands,Lab Sample Handling,Critical,2025-04-22
+D0167,S005,Australia,Dosing Error,Minor,2025-05-29
+D0168,S022,Australia,Documentation Error,Minor,2024-06-07
+D0169,S027,Poland,Missed Visit Window,Minor,2024-06-10
+D0170,S028,United Kingdom,Missed Visit Window,Major,2024-04-25
+D0171,S001,Canada,Documentation Error,Minor,2024-05-19
+D0172,S035,Japan,Inclusion/Exclusion Violation,Major,2023-10-04
+D0173,S005,Australia,Documentation Error,Minor,2024-01-31
+D0174,S002,United States,Lab Sample Handling,Minor,2024-02-21
+D0175,S020,United States,Documentation Error,Major,2023-08-17
+D0176,S030,Italy,Inclusion/Exclusion Violation,Minor,2024-12-30
+D0177,S016,Japan,Documentation Error,Minor,2024-03-31
+D0178,S034,Poland,Missed Visit Window,Minor,2023-11-29
+D0179,S012,Japan,Lab Sample Handling,Major,2023-10-15
+D0180,S033,Germany,Dosing Error,Minor,2025-05-15
+D0181,S005,Australia,Documentation Error,Critical,2024-07-19
+D0182,S033,Germany,Missed Visit Window,Minor,2025-03-11
+D0183,S033,Germany,Informed Consent Issue,Minor,2025-01-16
+D0184,S014,Spain,Informed Consent Issue,Major,2024-07-26
+D0185,S037,South Korea,Dosing Error,Major,2024-10-30
+D0186,S024,France,Documentation Error,Minor,2025-05-05
+D0187,S042,Spain,Missed Visit Window,Major,2023-09-24
+D0188,S008,Germany,Documentation Error,Minor,2024-01-20
+D0189,S001,Canada,Documentation Error,Minor,2023-12-08
+D0190,S011,Spain,Lab Sample Handling,Critical,2025-05-31
+D0191,S019,India,Missed Visit Window,Minor,2024-10-03
+D0192,S004,Spain,Documentation Error,Major,2024-05-05
+D0193,S004,Spain,Informed Consent Issue,Minor,2025-01-27
+D0194,S024,France,Documentation Error,Minor,2023-12-16
+D0195,S003,Italy,Dosing Error,Minor,2023-10-20
+D0196,S037,South Korea,Lab Sample Handling,Minor,2024-02-19
+D0197,S031,United States,Informed Consent Issue,Major,2024-10-31
+D0198,S010,United States,Inclusion/Exclusion Violation,Major,2024-10-12
+D0199,S040,Australia,Inclusion/Exclusion Violation,Minor,2023-10-24
+D0200,S038,Mexico,Missed Visit Window,Minor,2025-03-25
+D0201,S017,Spain,Documentation Error,Minor,2024-07-16
+D0202,S038,Mexico,Dosing Error,Critical,2024-08-30
+D0203,S015,Canada,Informed Consent Issue,Major,2024-11-12
+D0204,S040,Australia,Documentation Error,Major,2024-10-03
+D0205,S009,Poland,Informed Consent Issue,Major,2025-01-07
+D0206,S024,France,Missed Visit Window,Critical,2024-01-25
+D0207,S016,Japan,Documentation Error,Major,2023-08-08
+D0208,S038,Mexico,Inclusion/Exclusion Violation,Minor,2024-04-26
+D0209,S013,United States,Inclusion/Exclusion Violation,Major,2024-08-19
+D0210,S034,Poland,Missed Visit Window,Critical,2023-12-28
+D0211,S033,Germany,Documentation Error,Major,2024-11-09
+D0212,S002,United States,Documentation Error,Minor,2024-07-24
+D0213,S037,South Korea,Dosing Error,Minor,2024-05-11
+D0214,S005,Australia,Lab Sample Handling,Minor,2025-06-14
+D0215,S033,Germany,Documentation Error,Minor,2024-08-08
+D0216,S035,Japan,Lab Sample Handling,Minor,2025-02-14
+D0217,S019,India,Missed Visit Window,Major,2024-07-21
+D0218,S019,India,Informed Consent Issue,Minor,2023-07-31
+D0219,S037,South Korea,Lab Sample Handling,Minor,2025-04-21
+D0220,S002,United States,Dosing Error,Minor,2023-07-30
+D0221,S003,Italy,Informed Consent Issue,Minor,2024-04-28
+D0222,S024,France,Inclusion/Exclusion Violation,Major,2024-03-27
+D0223,S028,United Kingdom,Documentation Error,Minor,2025-01-16
+D0224,S037,South Korea,Documentation Error,Minor,2024-05-09
+D0225,S041,United States,Missed Visit Window,Major,2023-11-08
+D0226,S023,United Kingdom,Informed Consent Issue,Minor,2023-12-14
+D0227,S036,Mexico,Dosing Error,Minor,2024-10-30
+D0228,S036,Mexico,Documentation Error,Minor,2023-09-09
+D0229,S023,United Kingdom,Lab Sample Handling,Minor,2024-08-30
+D0230,S031,United States,Missed Visit Window,Minor,2025-01-23
+D0231,S029,United Kingdom,Documentation Error,Critical,2023-09-28
+D0232,S012,Japan,Dosing Error,Minor,2024-05-11
+D0233,S017,Spain,Lab Sample Handling,Minor,2024-03-20
+D0234,S014,Spain,Dosing Error,Major,2024-11-19
+D0235,S024,France,Dosing Error,Minor,2025-03-09
+D0236,S039,South Korea,Informed Consent Issue,Critical,2024-11-29
+D0237,S035,Japan,Inclusion/Exclusion Violation,Minor,2025-07-02
+D0238,S018,South Korea,Missed Visit Window,Minor,2024-06-08
+D0239,S025,India,Inclusion/Exclusion Violation,Minor,2024-01-18
+D0240,S023,United Kingdom,Missed Visit Window,Major,2023-09-24
+D0241,S040,Australia,Lab Sample Handling,Minor,2025-01-05
+D0242,S009,Poland,Documentation Error,Minor,2025-06-07
+D0243,S025,India,Informed Consent Issue,Minor,2023-10-13
+D0244,S031,United States,Lab Sample Handling,Minor,2023-12-23
+D0245,S030,Italy,Inclusion/Exclusion Violation,Minor,2025-02-21
+D0246,S037,South Korea,Missed Visit Window,Minor,2025-04-30
+D0247,S027,Poland,Missed Visit Window,Minor,2024-04-18
+D0248,S021,India,Dosing Error,Major,2024-02-24
+D0249,S001,Canada,Lab Sample Handling,Minor,2024-05-27
+D0250,S032,Brazil,Lab Sample Handling,Minor,2025-03-06
+D0251,S019,India,Inclusion/Exclusion Violation,Major,2024-06-26
+D0252,S029,United Kingdom,Inclusion/Exclusion Violation,Minor,2023-07-17
+D0253,S017,Spain,Lab Sample Handling,Minor,2024-10-31
+D0254,S026,Germany,Lab Sample Handling,Major,2024-03-23
+D0255,S010,United States,Inclusion/Exclusion Violation,Minor,2025-04-05
+D0256,S002,United States,Documentation Error,Critical,2023-08-02
+D0257,S018,South Korea,Missed Visit Window,Minor,2024-10-23
+D0258,S018,South Korea,Dosing Error,Minor,2024-01-02
+D0259,S002,United States,Missed Visit Window,Minor,2025-02-15
+D0260,S006,Canada,Inclusion/Exclusion Violation,Major,2024-06-14
