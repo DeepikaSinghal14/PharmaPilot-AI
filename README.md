@@ -3,7 +3,7 @@
 
 ## Why does this project exist?
 Clinical trial teams track patients, sites, visits, and protocol deviations across
-spreadsheets, CTMS exports, and email — which makes it hard to see risk early.
+spreadsheets, CTMS exports, and email, which makes it hard to see risk early.
 PharmaPilot AI is a demonstration of what a lightweight, internal intelligence layer
 could look like: one place to see recruitment, operational health, and predictive
 risk signals, without waiting on a data team to build a report.
