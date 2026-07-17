@@ -134,6 +134,31 @@ def inject_base_style():
 
         .stDataFrame {{ border-radius: 8px; overflow:hidden; }}
 
+        /* Force readable text everywhere in the main content area, regardless
+           of the viewer's OS/browser dark-mode setting. */
+        [data-testid="stAppViewContainer"] h1,
+        [data-testid="stAppViewContainer"] h2,
+        [data-testid="stAppViewContainer"] h3,
+        [data-testid="stAppViewContainer"] h4,
+        [data-testid="stAppViewContainer"] h5,
+        [data-testid="stAppViewContainer"] h6 {{
+            color: {COLOR_NAVY} !important;
+        }}
+        [data-testid="stAppViewContainer"] p,
+        [data-testid="stAppViewContainer"] li,
+        [data-testid="stAppViewContainer"] span,
+        [data-testid="stAppViewContainer"] label,
+        [data-testid="stAppViewContainer"] .stMarkdown {{
+            color: {COLOR_TEXT} !important;
+        }}
+        [data-testid="stAppViewContainer"] code {{
+            color: {COLOR_NAVY} !important;
+            background: #EEF2F6 !important;
+        }}
+        [data-testid="stAppViewContainer"] a {{
+            color: {COLOR_TEAL} !important;
+        }}
+
         footer {{visibility: hidden;}}
         #MainMenu {{visibility: hidden;}}
         </style>
