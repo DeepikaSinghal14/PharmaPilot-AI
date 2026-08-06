@@ -393,11 +393,37 @@ def nav_card(title: str, desc: str):
 
 PLOTLY_TEMPLATE = dict(
     layout=dict(
+        template="plotly_white",
         font=dict(family=FONT_UI, color=COLOR_TEXT, size=12),
+        # NOTE: flattened "magic underscore" keys on purpose (title_font_color,
+        # xaxis_tickfont_color, etc). app.py passes its own explicit `title=`
+        # on every chart and `yaxis=dict(categoryorder=...)` on some charts —
+        # nesting these under literal "title"/"xaxis"/"yaxis" keys here would
+        # collide with those and raise "multiple values for keyword argument".
+        title_font_color=COLOR_NAVY,
+        title_font_family=FONT_UI,
+        title_font_size=15,
         paper_bgcolor=COLOR_PANEL,
         plot_bgcolor=COLOR_PANEL,
         colorway=[COLOR_TEAL, COLOR_NAVY, COLOR_AMBER, "#5B8AA6", COLOR_RED, "#8FB8AE"],
         margin=dict(l=10, r=10, t=40, b=10),
-        legend=dict(orientation="h", yanchor="bottom", y=1.02, xanchor="left", x=0),
+        legend=dict(
+            orientation="h", yanchor="bottom", y=1.02, xanchor="left", x=0,
+            font=dict(color=COLOR_TEXT, size=12),
+        ),
+        xaxis_tickfont_color=COLOR_TEXT,
+        xaxis_tickfont_size=11,
+        xaxis_title_font_color=COLOR_TEXT,
+        xaxis_title_font_size=12,
+        xaxis_gridcolor=COLOR_BORDER,
+        xaxis_linecolor=COLOR_BORDER,
+        xaxis_zerolinecolor=COLOR_BORDER,
+        yaxis_tickfont_color=COLOR_TEXT,
+        yaxis_tickfont_size=11,
+        yaxis_title_font_color=COLOR_TEXT,
+        yaxis_title_font_size=12,
+        yaxis_gridcolor=COLOR_BORDER,
+        yaxis_linecolor=COLOR_BORDER,
+        yaxis_zerolinecolor=COLOR_BORDER,
     )
 )
